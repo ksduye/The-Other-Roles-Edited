@@ -3,7 +3,7 @@
 # 分支模组:The Other Roles Edited
 ![eisbison banner](./Images/TORE_logo.png)
 
-<p align="center"><a href="https://github.com/ksduye/The-Other-Roles-Edited/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
+<p align="center"><a href="https://github.com/ksduye/The-Other-Roles-Edited/releases/"><img src="https://badgen.net/github/release/ksduye/the-other-roles-edited"></a></p>
 
 本模组不隶属于 Among Us 或 Innersloth LLC，其中包含的内容未经 Innersloth LLC 认可或以其他方式赞助,此处包含的部分材料是 Innersloth LLC 的财产, ©.</p>
 <p align="center">
