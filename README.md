@@ -45,7 +45,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 # 下载
 | Among Us - 版本| 模组版本 | 链接 |
 |----------|-------------|-----------------|
-| 2024.11.28s| v1.0.1| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/download/v1.0.1/TheOtherRolesEdited.zip)
+| 2023.11.28s| v1.0.1| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/download/v1.0.1/TheOtherRolesEdited.zip)
 | 2023.11.28s| v4.5.1| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
 | 2023.11.28s| v4.5.0| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.0/TheOtherRoles.zip)
 
