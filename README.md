@@ -2,8 +2,8 @@
 ![eisbison banner](./Images/TORE_logo.png)
 # 本家模组:The Other Roles
 ![eisbison banner](./Images/TOR_logo.png)
-<p align="center"><a href="https://github.com/ksduye/The-Other-Roles-Edited/releases/"><img src="https://github.com/ksduye/The-Other-Roles-Edited/releases/></a></p>
 
+<p align="center"><a href="https://github.com/ksduye/The-Other-Roles-Edited/releases/"><img src="https://github.com/ksduye/The-Other-Roles-Edited/releases/></a></p>
 本模组不隶属于 Among Us 或 Innersloth LLC，其中包含的内容未经 Innersloth LLC 认可或以其他方式赞助,此处包含的部分材料是 Innersloth LLC 的财产, ©.</p>
 <p align="center">
  致其他模组开发者：对于使用我们的代码，请阅读并遵守 <a href="#license">许可证</a></p>
