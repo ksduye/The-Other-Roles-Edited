@@ -1,12 +1,11 @@
-# 分支模组:The Other Roles Edited
-![eisbison banner](./Images/TORE_logo.png)
 # 本家模组:The Other Roles
 ![eisbison banner](./Images/TOR_logo.png)
+# 分支模组:The Other Roles Edited
+![eisbison banner](./Images/TORE_logo.png)
 
 <p align="center"><a href="https://github.com/ksduye/The-Other-Roles-Edited/releases/"><img src="https://github.com/ksduye/The-Other-Roles-Edited/releases/></a></p>
 本模组不隶属于 Among Us 或 Innersloth LLC，其中包含的内容未经 Innersloth LLC 认可或以其他方式赞助,此处包含的部分材料是 Innersloth LLC 的财产, ©.</p>
-<p align="center">
- 致其他模组开发者：对于使用我们的代码，请阅读并遵守 <a href="#license">许可证</a></p>
+<p align="center">致其他模组开发者：对于使用我们的代码，请阅读并遵守 <a href="#license">许可证</a></p>
 
 [![Discord](./Images/TORE_server.png)](https://discord.gg/77RkMJHWsM)
 [![QQ](./Images/TORE_QQ.png)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1YPTXe2Sh93pAUXv1mwv4unI6J_G1FYK&authKey=%2BPzdgfi%2FpbaxyPTVU1Lx8xU69Zo1X4%2FCih0lTozAbZ0%2FsCiO%2FGe8sQ97p6jxEFlV&noverify=0&group_code=647668527)
