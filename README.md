@@ -4,6 +4,11 @@
 ![eisbison infographic](./Images/TORE_Roles.png)
 
 # 分支模组:The Other Roles Edited
+<details>
+  <summary>点我查看TheOtherRoles开发者</summary>
+- duye
+</details>
+
 ![eisbison banner](./Images/TORE_logo.png)
 
 <p align="center"><a href="https://github.com/ksduye/The-Other-Roles-Edited/releases/"><img src="https://badgen.net/github/release/ksduye/the-other-roles-edited"></a></p>
