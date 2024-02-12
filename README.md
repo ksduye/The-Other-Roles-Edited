@@ -1,3 +1,7 @@
+Black='\033[1;30m'
+Red='\033[1;31m'
+
+print(Red+'欢迎来到TheOtherRoles！')
 # 本家模组:[The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles)
 ![eisbison banner](./Images/TOR_logo.png)
 [![Discord](./Images/TORE_server.png)](https://discord.gg/77RkMJHWsM)
