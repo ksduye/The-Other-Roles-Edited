@@ -21,29 +21,28 @@
 
 # The Other Roles Edited
 **The Other Roles Edited** 是一个为 [Among Us](https://store.steampowered.com/app/945360/Among_Us) 添加许多新职业的MOD, **The Other Roles Edited** 为  [Among Us](https://store.steampowered.com/app/945360/Among_Us) 添加了新 [Settings](#settings) 和新 [Custom Hats](#custom-hats) .
-Even more roles are coming soon. :)
 
 | 内鬼 | 船员 | 中立 | 附加 | 游戏模式 |
 |----------|-------------|-----------------|----------------|----------------|
-| [教父 (黑手党)](#mafia) | [市长](#mayor) | [小丑](#jester) | [溅血者](#bloody) | [经典模式](#roles) |
-| [小弟 (黑手党)](#mafia) | [工程师](#engineer) | [纵火犯](#arsonist) | [厄运儿](#anti-teleport) | [赌怪模式](#guesser-modifier) |
-| [清洁工 (黑手党)](#mafia) | [警长](#sheriff) | [豺狼](#jackal) | [破平者](#tie-breaker) | [捉迷藏模式](#hide-n-seek) |
-| [化形者](#morphling) | [捕快](#deputy) | [跟班](#sidekick) | [诱饵](#bait) | [原版躲猫猫模式](https://www.innersloth.com/new-game-mode-hide-n-seek-is-here-emergency-meeting-35/) |
-| [隐蔽者](#camouflager) | [执灯人](#lighter) | [秃鹫](#vulture) | [恋人](#lovers) | [变形躲猫猫模式](#prophunt)|
-| [吸血鬼](#vampire) | [侦探](#detective) | [律师](#lawyer) | [太阳镜](#sunglasses) |
-| [抹除者](#eraser) | [时间之主](#time-master) | [起诉人](#prosecutor) | [迷你船员](#mini) |
-| [骗术师](#trickster) | [医生](#medic) | [起诉人](#pursuer) | [VIP](#vip) |
-| [清理者](#cleaner) | [换票师](#swapper) | [窃贼](#thief) | [酒鬼](#invert) |
-| [术士](#warlock) | [灵媒](#seer) |  | [变色龙](#chameleon) |
-| [赏金猎人](#bounty-hunter) | [黑客](#hacker) |  | [交换师](#shifter)
-| [女巫](#witch) | [追踪者](#tracker) |  |  |
-| [忍者](#ninja) | [告密者](#snitch) |  |  |
-| [爆炸狂](#bomber) | [卧底](#spy) |  |  |
-| [邪恶的赌怪](#guesser) | [传送师](#portalmaker) |  |  |
-|  | [保安](#security-guard) |  |  |
-|  | [医生](#medium) |  |  |
-|  | [猎人](#trapper) |  |  |
-|  | [正义赌怪](#guesser) |  |  |
+| [黑手党 (黑手党)](#黑手党) | [市长](#市长) | [小丑](#小丑) | [溅血者](#溅血者) | [经典模式](#职业) |
+| [小弟 (黑手党)](#黑手党) | [工程师](#工程师) | [纵火犯](#纵火犯) | [厄运儿](#厄运儿) | [赌怪模式](#赌怪模式) |
+| [清理者 (黑手党)](#黑手党) | [警长](#警长) | [豺狼](#豺狼) | [破平者](#破平者) | [捉迷藏模式](#捉迷藏模式) |
+| [化形者](#化形者) | [捕快](#捕快) | [跟班](#跟班) | [诱饵](#诱饵) | [原版躲猫猫模式](https://www.innersloth.com/new-game-mode-捉迷藏模式-is-here-emergency-meeting-35/) |
+| [隐蔽者](#隐蔽者) | [执灯人](#执灯人) | [秃鹫](#秃鹫) | [恋人](#恋人s) | [变形躲猫猫模式](#变形躲猫猫模式)|
+| [吸血鬼](#吸血鬼) | [侦探](#侦探) | [律师](#律师) | [太阳镜](#太阳镜) |
+| [抹除者](#抹除者) | [时间之主](#时间之主) | [起诉人](#prosecutor) | [迷你船员](#迷你船员) |
+| [骗术师](#骗术师) | [医生](#医生) | [起诉人](#起诉人) | [VIP](#vip) |
+| [清理者](#清理者) | [换票师](#换票师) | [窃贼](#窃贼) | [酒鬼](#酒鬼) |
+| [术士](#术士) | [灵媒](#灵媒) |  | [变色龙](#变色龙) |
+| [赏金猎人](#赏金猎人) | [黑客](#黑客) |  | [交换师](#交换师)
+| [女巫](#女巫) | [追踪者](#追踪者) |  |  |
+| [忍者](#忍者) | [告密者](#告密者) |  |  |
+| [爆炸狂](#爆炸狂) | [卧底](#卧底) |  |  |
+| [邪恶的赌怪](#赌怪) | [传送师](#传送师) |  |  |
+|  | [保安](#保安) |  |  |
+|  | [医生](#医生) |  |  |
+|  | [猎人](#猎人) |  |  |
+|  | [正义赌怪](#赌怪) |  |  |
 
 The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之间分配.
 
@@ -219,159 +218,159 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
   
 # 职业
 
-## Mafia
+## 黑手党
 ### **阵营:内鬼**
-The Mafia are a group of three Impostors.\
+The 黑手党 are a group of three Impostors.\
 The Godfather works like a normal Impostor.\
 The Mafioso is an Impostor who cannot kill until the Godfather is dead.\
 The Janitor is an Impostor who cannot kill, but they can hide dead bodies instead.\
 \
 **便签:**
-- There have to be 3 Impostors activated for the mafia to spawn.
+- There have to be 3 Impostors activated for the 黑手党 to spawn.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Mafia Spawn Chance | -
+| 黑手党 Spawn Chance | -
 | Janitor Cooldown | -
 -----------------------
 
-## Morphling
+## 化形者
 ### **阵营:内鬼**
-The Morphling is an Impostor which can additionally scan the appearance of a player. After an arbitrary time they can take on that appearance for 10s.\
+The 化形者 is an Impostor which can additionally scan the appearance of a player. After an arbitrary time they can take on that appearance for 10s.\
 \
 **便签:**
-- They shrink to the size of the Mini when they copy its look.
-- The Hacker sees the new color on the admin table.
+- They shrink to the size of the 迷你船员 when they copy its look.
+- The 黑客 sees the new color on the admin table.
 - The color of the footprints changes accordingly (also the ones that were already on the ground).
 - The other Impostor still sees that they are an Impostor (the 名字 remains red).
-- The shield indicator changes accordingly (the Morphling gains or loses the shield indicator).
-- Tracker arrows keep working.
+- The shield indicator changes accordingly (the 化形者 gains or loses the shield indicator).
+- 追踪者 arrows keep working.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Morphling Spawn Chance | -
-| Morphling Cooldown | -
-| Morph Duration | Time the Morphling stays morphed
+| 化形者 Spawn Chance | -
+| 化形者 Cooldown | -
+| Morph Duration | Time the 化形者 stays morphed
 -----------------------
 
-## Camouflager
+## 隐蔽者
 ### **阵营:内鬼**
-The Camouflager is an Impostor which can additionally activate a camouflage mode.\
+The 隐蔽者 is an Impostor which can additionally activate a camouflage mode.\
 The camouflage mode lasts for 10s and while it is active, all player 名字s/pets/hats\
 are hidden and all players have the same color.\
 \
 **便签:**
-- The Mini will look like all the other players
+- The 迷你船员 will look like all the other players
 - The color of the footprints turns gray (also the ones that were already on the ground).
-- The Hacker sees gray icons on the admin table
+- The 黑客 sees gray icons on the admin table
 - The shield is not visible anymore
-- Tracker arrows keep working
+- 追踪者 arrows keep working
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Camouflager Spawn Chance | -
-| Camouflager Cooldown | -
+| 隐蔽者 Spawn Chance | -
+| 隐蔽者 Cooldown | -
 | Camo Duration | Time players stay camouflaged
 -----------------------
 
-## Vampire
+## 吸血鬼
 ### **阵营:内鬼**
-The Vampire is an Impostor, that can bite other player. Bitten players die after a configurable amount of time.\
-If the Vampire spawn chance is greater 0 (even if there is no Vampire in the game), all players can place one garlic.\
-If a victim is near a garlic, the "Bite Button" turns into the default "Kill Button" and the Vampire can only perform a normal kill.\
+The 吸血鬼 is an Impostor, that can bite other player. Bitten players die after a configurable amount of time.\
+If the 吸血鬼 spawn chance is greater 0 (even if there is no 吸血鬼 in the game), all players can place one garlic.\
+If a victim is near a garlic, the "Bite Button" turns into the default "Kill Button" and the 吸血鬼 can only perform a normal kill.\
 \
 **便签:**
 - If a bitten player is still alive when a meeting is being called, they die at the start of the meeting.
-- The cooldown is the same as the default kill cooldown (+ the kill delay if the Vampire bites the target).
-- If there is a Vampire in the game, there can't be a Warlock.
-- If the Vampire bites a player and the Thief kills the Vampire, the bite will still be performed, but the new Vampire will be displayed in the kill animation.
-- If the Vampire bites a player and gets killed before the bite is performed, the biten player will survive.
+- The cooldown is the same as the default kill cooldown (+ the kill delay if the 吸血鬼 bites the target).
+- If there is a 吸血鬼 in the game, there can't be a 术士.
+- If the 吸血鬼 bites a player and the 窃贼 kills the 吸血鬼, the bite will still be performed, but the new 吸血鬼 will be displayed in the kill animation.
+- If the 吸血鬼 bites a player and gets killed before the bite is performed, the biten player will survive.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Vampire Spawn Chance | -
-| Vampire Kill Delay | -
-| Vampire Cooldown | Sets the kill/bite cooldown
-| Vampire Can Kill Near Garlics | The Vampire can never bite when their victim is near a garlic. If this option is set to true, they can still perform a normal kill there.
+| 吸血鬼 Spawn Chance | -
+| 吸血鬼 Kill Delay | -
+| 吸血鬼 Cooldown | Sets the kill/bite cooldown
+| 吸血鬼 Can Kill Near Garlics | The 吸血鬼 can never bite when their victim is near a garlic. If this option is set to true, they can still perform a normal kill there.
 -----------------------
 
-## Eraser
+## 抹除者
 ### **阵营:内鬼**
-The Eraser is an Impostor that can erase the role of every player.\
+The 抹除者 is an Impostor that can erase the role of every player.\
 The targeted players will lose their role after the meeting right before a player is exiled.\
 After every erase, the cooldown increases by 10 seconds.\
-The erase will be performed, even if the Eraser or their target die before the next meeting.\
-By default the Eraser can erase everyone but the Spy and other Impostors.\
+The erase will be performed, even if the 抹除者 or their target die before the next meeting.\
+By default the 抹除者 can erase everyone but the 卧底 and other Impostors.\
 Depending on the options they can also erase them (Impostors will lose their special Impostor ability).\
 \
 **便签:**
-- The Shifter shift will always be triggered before the Erase (hence either the new role of the Shifter will be erased or the Shifter saves the role of their target, depending on whom the Eraser erased).
-- As the erase is being triggered before the ejection of a player, a Jester win would not happen, as the erase will be triggered before.
-- Modifier will not be erased.
+- The 交换师 shift will always be triggered before the Erase (hence either the new role of the 交换师 will be erased or the 交换师 saves the role of their target, depending on whom the 抹除者 erased).
+- As the erase is being triggered before the ejection of a player, a 小丑 win would not happen, as the erase will be triggered before.
+- 附加职业 will not be erased.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Eraser Spawn Chance | -
-| Eraser Cooldown | The Eraser's cooldown will increase by 10 seconds after every erase.
-| Eraser Can Erase Anyone | If set to false, they can't erase the Spy and other Impostors
+| 抹除者 Spawn Chance | -
+| 抹除者 Cooldown | The 抹除者's cooldown will increase by 10 seconds after every erase.
+| 抹除者 Can Erase Anyone | If set to false, they can't erase the 卧底 and other Impostors
 -----------------------
 
-## Trickster
+## 骗术师
 ### **阵营:内鬼**
-The Trickster is an Impostor that can place 3 jack-in-the-boxes that are invisible at first to other players.\
-If the Trickster has placed all of their boxes they will be converted into a vent network usable only by the Trickster themself, but the boxes are revealed to the others.\
-If the boxes are converted to a vent network, the Trickster gains a new ability "Lights out" to limit the visibility of Non-Impostors, that cannot be fixed by other players. Lights are automatically restored after a while.\
+The 骗术师 is an Impostor that can place 3 jack-in-the-boxes that are invisible at first to other players.\
+If the 骗术师 has placed all of their boxes they will be converted into a vent network usable only by the 骗术师 themself, but the boxes are revealed to the others.\
+If the boxes are converted to a vent network, the 骗术师 gains a new ability "Lights out" to limit the visibility of Non-Impostors, that cannot be fixed by other players. Lights are automatically restored after a while.\
 \
 **便签:**
-- Impostors will get a text indicator at the bottom of the screen to notify them if the lights are out due to the Trickster ability, as there is no sabotage arrows or task to sabotage text to otherwise notify them about it.
+- Impostors will get a text indicator at the bottom of the screen to notify them if the lights are out due to the 骗术师 ability, as there is no sabotage arrows or task to sabotage text to otherwise notify them about it.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Trickster Spawn Chance | -
-| Trickster Box Cooldown | Cooldown for placing jack-in-the-boxes
-| Trickster Lights Out Cooldown | Cooldown for their "lights out" ability
-| Trickster Lights Out Duration | Duration after which the light is automatically restored
+| 骗术师 Spawn Chance | -
+| 骗术师 Box Cooldown | Cooldown for placing jack-in-the-boxes
+| 骗术师 Lights Out Cooldown | Cooldown for their "lights out" ability
+| 骗术师 Lights Out Duration | Duration after which the light is automatically restored
 -----------------------
 
-## Cleaner
+## 清理者
 ### **阵营:内鬼**
-The Cleaner is an Impostor who has the ability to clean up dead bodies.\
+The 清理者 is an Impostor who has the ability to clean up dead bodies.\
 \
 **便签:**
 - The Kill and Clean cooldown are shared, preventing them from immediately cleaning their own kills.
-- If there is a Cleaner in the game, there can't be a Vulture.
+- If there is a 清理者 in the game, there can't be a 秃鹫.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Cleaner Spawn Chance | -
-| Cleaner Cooldown | Cooldown for cleaning dead bodies
+| 清理者 Spawn Chance | -
+| 清理者 Cooldown | Cooldown for cleaning dead bodies
 -----------------------
 
-## Warlock
+## 术士
 ### **阵营:内鬼**
-The Warlock is an Impostor, that can curse another player (the cursed player doesn't get notified).\
-If the cursed person stands next to another player, the Warlock is able to kill that player (no matter how far away they are).\
-Performing a kill with the help of a cursed player, will lift the curse and it will result in the Warlock being unable to move for a configurable amount of time.\
-The Warlock can still perform normal kills, but the two buttons share the same cooldown.\
+The 术士 is an Impostor, that can curse another player (the cursed player doesn't get notified).\
+If the cursed person stands next to another player, the 术士 is able to kill that player (no matter how far away they are).\
+Performing a kill with the help of a cursed player, will lift the curse and it will result in the 术士 being unable to move for a configurable amount of time.\
+The 术士 can still perform normal kills, but the two buttons share the same cooldown.\
 \
 **便签:**
-- The Warlock can always kill their Impostor mates (and even themself) using the "cursed kill"
-- If there is a Warlock in the game, there can't be a Vampire
+- The 术士 can always kill their Impostor mates (and even themself) using the "cursed kill"
+- If there is a 术士 in the game, there can't be a 吸血鬼
 - Performing a normal kill, doesn't lift the curse
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Warlock Spawn Chance | -
-| Warlock Cooldown | Cooldown for using the Curse and curse Kill
-| Warlock Root Time | Time the Warlock is rooted in place after killing using the curse
+| 术士 Spawn Chance | -
+| 术士 Cooldown | Cooldown for using the Curse and curse Kill
+| 术士 Root Time | Time the 术士 is rooted in place after killing using the curse
 -----------------------
 
 ## Bounty Hunter
@@ -383,7 +382,7 @@ Killing a player that's not their current target results in an increased kill co
 Depending on the options, there'll be an arrow pointing towards the current target.\
 \
 **便签:**
-- The target won't be an Impostor, a Spy or the Bounty Hunter's Lover.
+- The target won't be an Impostor, a 卧底 or the Bounty Hunter's 恋人.
 - Killing the target resets the timer and a new target will be selected.
 
 ### 游戏设置
@@ -397,69 +396,69 @@ Depending on the options, there'll be an arrow pointing towards the current targ
 | Bounty Hunter Arrow Update Interval | Sets how often the position is being updated
 -----------------------
 
-## Witch
+## 女巫
 ### **阵营:内鬼**
-The Witch is an Impostor who has the ability to cast a spell on other players.\
+The 女巫 is an Impostor who has the ability to cast a spell on other players.\
 During the next meeting, the spellbound player will be highlighted and they'll die right after the meeting.\
 There are multiple options listed down below with which you can configure to fit your taste.\
-Similar to the Vampire, shields and blanks will be checked twice (at the end of casting the spell on the player and at the end of the meeting, when the spell will be activated).\
-This can result in players being marked as spelled during the meeting, but not dying in the end (when they get a shield or the Witch gets blanked after they were spelled by the Witch).\
-If the Witch dies before the meeting starts or if the Witch is being guessed during the meeting, the spellbound players will be highlighted but they'll survive in any case.\
-Depending on the options you can choose whether voting the Witch out will save all the spellbound players or not.\
+Similar to the 吸血鬼, shields and blanks will be checked twice (at the end of casting the spell on the player and at the end of the meeting, when the spell will be activated).\
+This can result in players being marked as spelled during the meeting, but not dying in the end (when they get a shield or the 女巫 gets blanked after they were spelled by the 女巫).\
+If the 女巫 dies before the meeting starts or if the 女巫 is being guessed during the meeting, the spellbound players will be highlighted but they'll survive in any case.\
+Depending on the options you can choose whether voting the 女巫 out will save all the spellbound players or not.\
 \
 **便签:**
-- The spellbound players will die before the voted player dies (which might trigger e.g. trigger an Impostor win condition, even if the Witch is the one being voted)
+- The spellbound players will die before the voted player dies (which might trigger e.g. trigger an Impostor win condition, even if the 女巫 is the one being voted)
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Witch Spawn Chance | -
-| Witch Spell Casting Cooldown | -
-| Witch Additional Cooldown | The spell casting cooldown will be increased by the amount you set here after each spell
-| Witch Can Spell Everyone | If set to false, the witch can't spell the Spy and other Impostors
-| Witch Spell Casting Duration | The time that you need to stay next to the target in order to cast a spell on it
+| 女巫 Spawn Chance | -
+| 女巫 Spell Casting Cooldown | -
+| 女巫 Additional Cooldown | The spell casting cooldown will be increased by the amount you set here after each spell
+| 女巫 Can Spell Everyone | If set to false, the 女巫 can't spell the 卧底 and other Impostors
+| 女巫 Spell Casting Duration | The time that you need to stay next to the target in order to cast a spell on it
 | Trigger Both Cooldowns | If set to true, casting a spell will also trigger cooldown of the kill button and vice versa (but the two cooldowns may vary)
-| Voting The Witch Saves All The Targets | If set to true, all the cursed targets will survive at the end of the meeting
+| Voting The 女巫 Saves All The Targets | If set to true, all the cursed targets will survive at the end of the meeting
 -----------------------
 
-## Ninja
+## 忍者
 ### **阵营:内鬼**
-The Ninja is an Impostor who has the ability to kill another player all over the map.\
+The 忍者 is an Impostor who has the ability to kill another player all over the map.\
 You can mark a player with your ability and by using the ability again, you jump to the position of the marked player and kill it.\
 Depending on the options you know where your marked player is.\
-If the Ninja uses its ability, it will leave a trace (leaves) for a configurable amount of time where it activated the ability and additionally where it killed the before marked player.\
-When performing a ninja ability kill, the ninja can be invisible for some seconds (depends on options)\
+If the 忍者 uses its ability, it will leave a trace (leaves) for a configurable amount of time where it activated the ability and additionally where it killed the before marked player.\
+When performing a 忍者 ability kill, the 忍者 can be invisible for some seconds (depends on options)\
 \
 **便签:**
-- The Ninja has a 5 second cooldown after marking a player
-- The trace has a darker (black) or lighter (white) color depending on the players color that will fade into green
+- The 忍者 has a 5 second cooldown after marking a player
+- The trace has a darker (black) or 执灯人 (white) color depending on the players color that will fade into green
 - The mark on the marked player will reset after a meeting or after using the ability to kill the marked player. Performing a normal kill will **NOT** reset the mark
-- If the Ninja tries to kill a shielded player (e.g. Medic shield, Shield last game first kill ), the kill will not be performed
-- If the Ninja tries to kill the Time Master while the shield is active, the Ninja won't teleport to the players position, but the Time Master shield will still be activated
+- If the 忍者 tries to kill a shielded player (e.g. 医生 shield, Shield last game first kill ), the kill will not be performed
+- If the 忍者 tries to kill the Time Master while the shield is active, the 忍者 won't teleport to the players position, but the Time Master shield will still be activated
 - If the marked target is on a different floor on Submerged, the arrow will always point to the elevator
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Ninja Spawn Chance | -
-| Ninja Mark Cooldown | -
-| Ninja Knows Location Of Target | -
+| 忍者 Spawn Chance | -
+| 忍者 Mark Cooldown | -
+| 忍者 Knows Location Of Target | -
 | Trace Duration | -
 | Time Till Trace Color Has Faded | -
-| Time The Ninja Is Invisible | -
+| Time The 忍者 Is Invisible | -
 -----------------------
 
-## Bomber
+## 爆炸狂
 ### **阵营:内鬼**
-The Bomber is an Impostor who has the ability to be very explosive. They have the ability to plant bombs to spread grouping Crewmates and also kill them.\
-The Bomber also has the ability to perform a normal kill like all Impostors.\
+The 爆炸狂 is an Impostor who has the ability to be very explosive. They have the ability to plant bombs to spread grouping Crewmates and also kill them.\
+The 爆炸狂 also has the ability to perform a normal kill like all Impostors.\
 The plant time of the bomb can be different to the kill cooldown depending on the settings.\
 Crewmates can defuse a bomb depending on the settings.
 
 **便签:**
-- The bomb won't kill a shielded player (Medic, First Kill Shield)
-- The bomb won't kill a Mini until it's grown up
-- The bomb can kill the bomber as well as their teammate(s)
+- The bomb won't kill a shielded player (医生, First Kill Shield)
+- The bomb won't kill a 迷你船员 until it's grown up
+- The bomb can kill the 爆炸狂 as well as their teammate(s)
 - The hearing range can be higher/lower than the actual destruction range, depending on the settings, and has a visual indicator
 - The visual indicator slowly fades into red until the bomb explodes and it does not show the explosion range (only hearing range)!
 - The bomb can be defused by standing on it and snipping the fuse (button)
@@ -467,7 +466,7 @@ Crewmates can defuse a bomb depending on the settings.
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Bomber Spawn Chance | -
+| 爆炸狂 Spawn Chance | -
 | Bomb Destruction Time | -
 | Bomb Destruction Range | -
 | Bomb Hear Range | -
@@ -476,130 +475,130 @@ Crewmates can defuse a bomb depending on the settings.
 | Bomb Is Active After |
 -----------------------
 
-## Guesser
+## 赌怪
 ### **阵营: 船员或内鬼**
-The Guesser can be a Crewmate or an Impostor (depending on the settings).\
-The Guesser can shoot players during the meeting, by guessing its role. If the guess is wrong, the Guesser dies instead.\
+The 赌怪 can be a Crewmate or an Impostor (depending on the settings).\
+The 赌怪 can shoot players during the meeting, by guessing its role. If the guess is wrong, the 赌怪 dies instead.\
 You can select how many players can be shot per game and if multiple players can be shot during a single meeting.\
 The guesses Impostor and Crewmate are only right, if the player is part of the corresponding team and has no special role.\
 You can only shoot during the voting time.\
-Depending on the options, the Guesser can't guess the shielded player and depending on the Medic options the Medic/shielded player might be notified (no one will die, independently of what the Guesser guessed).\
+Depending on the options, the 赌怪 can't guess the shielded player and depending on the 医生 options the 医生/shielded player might be notified (no one will die, independently of what the 赌怪 guessed).\
 \
 **便签:**
 - If a player gets shot, you'll get back your votes
-- Jester wins won't be triggered, if the Guesser shoots the Jester before the Jester gets voted out
+- 小丑 wins won't be triggered, if the 赌怪 shoots the 小丑 before the 小丑 gets voted out
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Guesser Spawn Chance | -
-| Chance That The Guesser Is An Impostor | -
-| Guesser Number Of Shots Per Game | -
-| Guesser Can Shoot Multiple Times Per Meeting |  -
+| 赌怪 Spawn Chance | -
+| Chance That The 赌怪 Is An Impostor | -
+| 赌怪 Number Of Shots Per Game | -
+| 赌怪 Can Shoot Multiple Times Per Meeting |  -
 | Guesses Visible In Ghost Chat | -
-| Guesses Ignore The Medic Shield | -
-| Evil Guesser Can Guess The Spy | -
-| Both Guesser Spawn Rate | -
-| Guesser Can't Guess Snitch When Tasks Completed | -
+| Guesses Ignore The 医生 Shield | -
+| Evil 赌怪 Can Guess The 卧底 | -
+| Both 赌怪 Spawn Rate | -
+| 赌怪 Can't Guess 告密者 When Tasks Completed | -
 
 -----------------------
 
-## Jester
+## 小丑
 ### **阵营:中立**
-The Jester does not have any tasks. They win the game as a solo, if they get voted out during a meeting.
+The 小丑 does not have any tasks. They win the game as a solo, if they get voted out during a meeting.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Jester Spawn Chance | -
-| Jester Can Call Emergency Meeting | Option to disable the emergency button for the Jester
+| 小丑 Spawn Chance | -
+| 小丑 Can Call Emergency Meeting | Option to disable the emergency button for the 小丑
 -----------------------
 
-## Arsonist
+## 纵火犯
 ### **阵营:中立**
-The Arsonist does not have any tasks, they have to win the game as a solo.\
-The Arsonist can douse other players by pressing the douse button and remaining next to the player for a few seconds.\
-If the player that the Arsonist douses walks out of range, the cooldown will reset to 0.\
-After dousing everyone alive the Arsonist can ignite all the players which results in an Arsonist win.
+The 纵火犯 does not have any tasks, they have to win the game as a solo.\
+The 纵火犯 can douse other players by pressing the douse button and remaining next to the player for a few seconds.\
+If the player that the 纵火犯 douses walks out of range, the cooldown will reset to 0.\
+After dousing everyone alive the 纵火犯 can ignite all the players which results in an 纵火犯 win.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Arsonist Spawn Chance | -
-| Arsonist Countdown | -
-| Arsonist Douse Duration | The time it takes to douse a player
+| 纵火犯 Spawn Chance | -
+| 纵火犯 Countdown | -
+| 纵火犯 Douse Duration | The time it takes to douse a player
 -----------------------
 
-## Jackal
+## 豺狼
 ### **阵营:豺狼**
-The Jackal is part of an extra team, that tries to eliminate all the other players.\
-The Jackal has no tasks and can kill Impostors, Crewmates and Neutrals.\
-The Jackal (if allowed by the options) can select another player to be their Sidekick.
-Creating a Sidekick removes all tasks of the Sidekick and adds them to the team Jackal. The Sidekick loses their current role (except if they're a Lover, then they play in two teams).
-The "Create Sidekick Action" may only be used once per Jackal or once per game (depending on the options).
-The Jackal can also promote Impostors to be their Sidekick, but depending on the options the Impostor will either really turn into the Sidekick and leave the team Impostors or they will just look like the Sidekick to the Jackal and remain as they were.\
-Also if a Spy or Impostor gets sidekicked, they still will appear red to the Impostors.
+The 豺狼 is part of an extra team, that tries to eliminate all the other players.\
+The 豺狼 has no tasks and can kill Impostors, Crewmates and Neutrals.\
+The 豺狼 (if allowed by the options) can select another player to be their 跟班.
+Creating a 跟班 removes all tasks of the 跟班 and adds them to the team 豺狼. The 跟班 loses their current role (except if they're a 恋人, then they play in two teams).
+The "Create 跟班 Action" may only be used once per 豺狼 or once per game (depending on the options).
+The 豺狼 can also promote Impostors to be their 跟班, but depending on the options the Impostor will either really turn into the 跟班 and leave the team Impostors or they will just look like the 跟班 to the 豺狼 and remain as they were.\
+Also if a 卧底 or Impostor gets 跟班ed, they still will appear red to the Impostors.
 
-The team Jackal enables multiple new outcomes of the game, listing some examples here:
-- The Impostors could be eliminated and then the crew plays against the team Jackal.
-- The Crew could be eliminated, then the Team Jackal fight against the Impostors (The Crew can still make a task win in this scenario)
+The team 豺狼 enables multiple new outcomes of the game, listing some examples here:
+- The Impostors could be eliminated and then the crew plays against the team 豺狼.
+- The Crew could be eliminated, then the Team 豺狼 fight against the Impostors (The Crew can still make a task win in this scenario)
 
 The priority of the win conditions is the following:
-1. Crewmate Mini lose by vote
-2. Jester wins by vote
-3. Arsonist win
+1. Crewmate 迷你船员 lose by vote
+2. 纵火犯 wins by vote
+3. 纵火犯 win
 4. Team Impostor wins by sabotage
 5. Team Crew wins by tasks (also possible if the whole Crew is dead)
-6. Lovers among the last three players win
-7. Team Jackal wins by outnumbering (When the team Jackal contains an equal or greater amount of players than the Crew and there are 0 Impostors left and team Jackal contains no Lover)
-8. Team Impostor wins by outnumbering (When the team Impostors contains an equal or greater amount of players than the Crew and there are 0 players of the team Jackal left and team Impostors contains no Lover)
-9. Team Crew wins by outnumbering (When there is no player of the team Jackal and the team Impostors left)
+6. 恋人s among the last three players win
+7. Team 豺狼 wins by outnumbering (When the team 豺狼 contains an equal or greater amount of players than the Crew and there are 0 Impostors left and team 豺狼 contains no 恋人)
+8. Team Impostor wins by outnumbering (When the team Impostors contains an equal or greater amount of players than the Crew and there are 0 players of the team 豺狼 left and team Impostors contains no 恋人)
+9. Team Crew wins by outnumbering (When there is no player of the team 豺狼 and the team Impostors left)
 
 **便签:**
-- The Jackal (and their Sidekick) may be killed by a Sheriff.
-- A Jackal cannot target the Mini, while it's growing up. After that they can kill it or select it as its Sidekick.
-- The Crew can still win, even if all of their members are dead, if they finish their tasks fast enough (That's why converting the last Crewmate with tasks left into a Sidekick results in a task win for the crew.)
+- The 豺狼 (and their 跟班) may be killed by a 警长.
+- A 豺狼 cannot target the 迷你船员, while it's growing up. After that they can kill it or select it as its 跟班.
+- The Crew can still win, even if all of their members are dead, if they finish their tasks fast enough (That's why converting the last Crewmate with tasks left into a 跟班 results in a task win for the crew.)
 
-If both Impostors and Jackals are in the game, the game continues even if all Crewmates are dead. Crewmates may still win in this case by completing their tasks. Jackal and Impostor have to kill each other.
+If both Impostors and 豺狼s are in the game, the game continues even if all Crewmates are dead. Crewmates may still win in this case by completing their tasks. 豺狼 and Impostor have to kill each other.
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Jackal Spawn Chance | - |
-| Jackal/Sidekick Kill Cooldown | Kill cooldown |
-| Jackal Create Sidekick Cooldown | Cooldown before a Sidekick can be created |
-| Jackal can use vents | Yes/No |
-| Jackal can create a Sidekick | Yes/No |
-| Jackals promoted from Sidekick can create a Sidekick | Yes/No (to prevent the Jackal team from growing) |
-| Jackals can make an Impostor to their Sidekick | Yes/No (to prevent a Jackal from turning an Impostor into a Sidekick, if they use the ability on an Impostor they see the Impostor as Sidekick, but the Impostor isn't converted to Sidekick. If this option is set to "No" Jackal and Sidekick can kill each other.) |
-| Jackal and Sidekick have Impostor vision | - |
+| 豺狼 Spawn Chance | - |
+| 豺狼/跟班 Kill Cooldown | Kill cooldown |
+| 豺狼 Create 跟班 Cooldown | Cooldown before a 跟班 can be created |
+| 豺狼 can use vents | Yes/No |
+| 豺狼 can create a 跟班 | Yes/No |
+| 豺狼s promoted from 跟班 can create a 跟班 | Yes/No (to prevent the 豺狼 team from growing) |
+| 豺狼s can make an Impostor to their 跟班 | Yes/No (to prevent a 豺狼 from turning an Impostor into a 跟班, if they use the ability on an Impostor they see the Impostor as 跟班, but the Impostor isn't converted to 跟班. If this option is set to "No" 豺狼 and 跟班 can kill each other.) |
+| 豺狼 and 跟班 have Impostor vision | - |
 -----------------------
 
-## Sidekick
+## 跟班
 ### **阵营:豺狼**
-Gets assigned to a player during the game by the "Create Sidekick Action" of the Jackal and joins the Jackal in their quest to eliminate all other players.\
-Upon the death of the Jackal (depending on the options), they might get promoted to Jackal themself and potentially even assign a Sidekick of their own.\
+Gets assigned to a player during the game by the "Create 跟班 Action" of the 豺狼 and joins the 豺狼 in their quest to eliminate all other players.\
+Upon the death of the 豺狼 (depending on the options), they might get promoted to 豺狼 themself and potentially even assign a 跟班 of their own.\
 \
 **便签:**
-- A player that converts into a Sidekick loses their previous role and tasks (if they had one).
-- The Sidekick may be killed by a Sheriff.
-- The Sidekick cannot target the Mini, while it's growing up.
+- A player that converts into a 跟班 loses their previous role and tasks (if they had one).
+- The 跟班 may be killed by a 警长.
+- The 跟班 cannot target the 迷你船员, while it's growing up.
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Jackal/Sidekick Kill Cooldown | Uses the same kill cooldown setting as the Jackal |
-| Sidekick gets promoted to Jackal on Jackal death |  Yes/No |
-| Sidekick can kill | Yes/No |
-| Sidekick can use vents | Yes/No |
+| 豺狼/跟班 Kill Cooldown | Uses the same kill cooldown setting as the 豺狼 |
+| 跟班 gets promoted to 豺狼 on 豺狼 death |  Yes/No |
+| 跟班 can kill | Yes/No |
+| 跟班 can use vents | Yes/No |
 -----------------------
 
-## Vulture
+## 秃鹫
 ### **阵营:中立**
-The Vulture does not have any tasks, they have to win the game as a solo.\
-The Vulture is a neutral role that must eat a specified number of corpses (depending on the options) in order to win.\
-Depending on the options, when a player dies, the Vulture gets an arrow pointing to the corpse.\
-If there is a Vulture in the game, there can't be a Cleaner.
+The 秃鹫 does not have any tasks, they have to win the game as a solo.\
+The 秃鹫 is a neutral role that must eat a specified number of corpses (depending on the options) in order to win.\
+Depending on the options, when a player dies, the 秃鹫 gets an arrow pointing to the corpse.\
+If there is a 秃鹫 in the game, there can't be a 清理者.
 
 **便签**
 - If the corpse is on a different floor on Submerged, the arrow will always point to the elevator
@@ -607,159 +606,159 @@ If there is a Vulture in the game, there can't be a Cleaner.
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Vulture Spawn Chance | -
-| Vulture Countdown | -
+| 秃鹫 Spawn Chance | -
+| 秃鹫 Countdown | -
 | Number Of Corpses Needed To Be Eaten | Corpes needed to be eaten to win the game
-| Vulture Can Use Vents | -
+| 秃鹫 Can Use Vents | -
 | Show Arrows Pointing Towards The Corpes | -
 -----------------------
 
-## Lawyer
+## 律师
 ### **阵营:中立**
-The Lawyer is a neutral role that has a client.\
-The client might be an Impostor or Jackal which is no Lover.\
-Depending on the options, the client can also be a Jester.\
-The Lawyer needs their client to win in order to win the game.\
+The 律师 is a neutral role that has a client.\
+The client might be an Impostor or 豺狼 which is no 恋人.\
+Depending on the options, the client can also be a 小丑.\
+The 律师 needs their client to win in order to win the game.\
 Their client doesn't know that it is their client.\
-If their client gets voted out, the Lawyer dies with the client.\
-If their client dies, the Lawyer changes their role and becomes the [Pursuer](#pursuer), which has a different goal to win the game.\
+If their client gets voted out, the 律师 dies with the client.\
+If their client dies, the 律师 changes their role and becomes the [起诉人](#起诉人), which has a different goal to win the game.\
 \
-How the Lawyer wins:
-- Lawyer dead/alive, client alive and client wins: The Lawyer wins together with the team of the client.
-- If their client is Jester and the Jester gets voted out, the Lawyer wins together with the Jester.
+How the 律师 wins:
+- 律师 dead/alive, client alive and client wins: The 律师 wins together with the team of the client.
+- If their client is 小丑 and the 小丑 gets voted out, the 律师 wins together with the 小丑.
 
 **便签:**
-- If the client disconnects, the Lawyer will also turn into the Pursuer.
-- The Lawyer needs to figure out the role of their client depending on the options.
-- The tasks only count, if the Lawyer gets promoted to Pursuer.
-- If the Lawyer dies before their client, they will lose all their tasks and will get the overview immediately.
+- If the client disconnects, the 律师 will also turn into the 起诉人.
+- The 律师 needs to figure out the role of their client depending on the options.
+- The tasks only count, if the 律师 gets promoted to 起诉人.
+- If the 律师 dies before their client, they will lose all their tasks and will get the overview immediately.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Lawyer Spawn Chance | -
-| Chance That The Lawyer Is Prosecutor | -
-| Lawyer/Prosecutor Vision | Pursuer has normal vision
-| Lawyer/Prosecutor Knows Target Role | -
-| Lawyer/Prosecutor Can Call Emergency Meeting | -
-| Lawyer Target Can Be The Jester | -
+| 律师 Spawn Chance | -
+| Chance That The 律师 Is Prosecutor | -
+| 律师/Prosecutor Vision | 起诉人 has normal vision
+| 律师/Prosecutor Knows Target Role | -
+| 律师/Prosecutor Can Call Emergency Meeting | -
+| 律师 Target Can Be The 小丑 | -
 -----------------------
 
 ## Prosecutor
 ### **阵营:中立**
-The Prosecutor is a neutral role that resembles the Lawyer. The Prosecutor has a client who is a Crewmate.\
+The Prosecutor is a neutral role that resembles the 律师. The Prosecutor has a client who is a Crewmate.\
 The Prosecutor needs their client to be voted out in order to win the game.\
 The Prosecutor's client doesn't know that they are their client.\
-If the client gets sidekicked, the Prosecutor changes their role and becomes the client's [Lawyer](#lawyer) and has to protect the
+If the client gets 跟班ed, the Prosecutor changes their role and becomes the client's [律师](#律师) and has to protect the
 client from now on.\
-If the Prosecutor's client dies, the Prosecutor changes their role and becomes the [Pursuer](#pursuer), which has a different goal to win the game.
+If the Prosecutor's client dies, the Prosecutor changes their role and becomes the [起诉人](#起诉人), which has a different goal to win the game.
 
 **便签:**
-- The Prosecutor's role settings are shared with the Lawyer settings.
-- If the client disconnects, the Prosecutor will also turn into the Pursuer.
+- The Prosecutor's role settings are shared with the 律师 settings.
+- If the client disconnects, the Prosecutor will also turn into the 起诉人.
 - The Prosecutor needs to figure out the role of their client depending on the options.
-- The tasks only count, if the Prosecutor gets promoted to Pursuer.
+- The tasks only count, if the Prosecutor gets promoted to 起诉人.
 - If the Prosecutor dies before their client, they will lose all their tasks and will get the overview immediately.
 
-## Pursuer
+## 起诉人
 ### **阵营:中立**
-The Pursuer is still a neutral role, but has a different goal to win the game; they have to be alive when the game ends and the Crew wins.\
-In order to achieve this goal, the Pursuer has an ability called "Blank", where they can fill a killer's (this also includes the Sheriff) weapon with a blank. So, if the killer attempts to kill someone, the killer will miss their target, and their cooldowns will be triggered as usual.\
-If the killer fires the "Blank", shields (e.g. Medic shield or Time Master shield) will not be triggered.\
-The Pursuer has tasks (which can already be done while being a Lawyer/Prosecutor), that count towards the task win for the Crewmates. If the Pursuer dies, their tasks won't be counted anymore.
+The 起诉人 is still a neutral role, but has a different goal to win the game; they have to be alive when the game ends and the Crew wins.\
+In order to achieve this goal, the 起诉人 has an ability called "Blank", where they can fill a killer's (this also includes the 警长) weapon with a blank. So, if the killer attempts to kill someone, the killer will miss their target, and their cooldowns will be triggered as usual.\
+If the killer fires the "Blank", shields (e.g. 医生 shield or Time Master shield) will not be triggered.\
+The 起诉人 has tasks (which can already be done while being a 律师/Prosecutor), that count towards the task win for the Crewmates. If the 起诉人 dies, their tasks won't be counted anymore.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Pursuer Blank Cooldown | -
-| Pursuer Number Of Blanks | -
+| 起诉人 Blank Cooldown | -
+| 起诉人 Number Of Blanks | -
 -----------------------
 
-## Thief
+## 窃贼
 ### **阵营:中立**
-The Thief has to kill another killer (Impostor, Jackal/Sidekick and if enabled Sheriff)
+The 窃贼 has to kill another killer (Impostor, 豺狼/跟班 and if enabled 警长)
 in order to have a win condition.\
-If the Thief doesn't kill another killer they will lose the game.\
-If the Thief kills one of the other killers, the Thief overtakes their role (e.g. Ninja) and joins their team (in this case
+If the 窃贼 doesn't kill another killer they will lose the game.\
+If the 窃贼 kills one of the other killers, the 窃贼 overtakes their role (e.g. 忍者) and joins their team (in this case
 team Impostor). They then have the new Role's win condition (e.g. Impostor-Win).\
-If the Thief tries to kill any non-killing role (Crewmate or Neutral), they die similar to a misfiring Sheriff.\
+If the 窃贼 tries to kill any non-killing role (Crewmate or Neutral), they die similar to a misfiring 警长.\
 \
 **便签**
-- If the option "Thief Can Kill Sheriff" is On, the Thief has tasks which will ONLY begin to count, if they kill
-the Sheriff. While the Thief hasn't fired, their tasks do not count towards the taskwin.
-- If the option "Thief Can Kill Sheriff" is Off, the Thief will not have tasks. 
-- If the Thief kills the witch, already witched players stay witched (except for the Thief).
-- If the Thief can guess to steal the role, guessing the witch will either save all targets or none of the targets (depending on the setting for Witch: Voting The Witch Saves All The Targets)
+- If the option "窃贼 Can Kill 警长" is On, the 窃贼 has tasks which will ONLY begin to count, if they kill
+the 警长. While the 窃贼 hasn't fired, their tasks do not count towards the taskwin.
+- If the option "窃贼 Can Kill 警长" is Off, the 窃贼 will not have tasks. 
+- If the 窃贼 kills the 女巫, already 女巫ed players stay 女巫ed (except for the 窃贼).
+- If the 窃贼 can guess to steal the role, guessing the 女巫 will either save all targets or none of the targets (depending on the setting for 女巫: Voting The 女巫 Saves All The Targets)
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Thief Spawn Chance | -
-| Thief Countdown | -
-| Thief Can Kill Sheriff | -
-| Thief Has Impostor Vision | -
-| Thief Can Use Vents | -
-| Thief Can Guess To Steal Role | -
+| 窃贼 Spawn Chance | -
+| 窃贼 Countdown | -
+| 窃贼 Can Kill 警长 | -
+| 窃贼 Has Impostor Vision | -
+| 窃贼 Can Use Vents | -
+| 窃贼 Can Guess To Steal Role | -
 -----------------------
 
-## Mayor
+## 市长
 ### **阵营:船员**
-The Mayor leads the Crewmates by having a vote that counts twice.\
-The Mayor can always use their meeting, even if the maximum number of meetings was reached.\
-The Mayor has a portable Meeting Button, depending on the options.\
-The Mayor can see the vote colors after completing a configurable amount of tasks, depending on the options.\
-The Mayor has the option to vote with only one vote instead of two (via a button in the meeting screen), depending on the settings.
+The 市长 leads the Crewmates by having a vote that counts twice.\
+The 市长 can always use their meeting, even if the maximum number of meetings was reached.\
+The 市长 has a portable Meeting Button, depending on the options.\
+The 市长 can see the vote colors after completing a configurable amount of tasks, depending on the options.\
+The 市长 has the option to vote with only one vote instead of two (via a button in the meeting screen), depending on the settings.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Mayor Spawn Chance | -
-| Mayor Can See Vote Colors | -
+| 市长 Spawn Chance | -
+| 市长 Can See Vote Colors | -
 | Completed Tasks Needed To See Vote Colors | -
 | Mobile Emergency Button | -
-| Mayor Can Choose Single Vote | Off, On (Before Voting), On (Until Meeting Ends)
+| 市长 Can Choose Single Vote | Off, On (Before Voting), On (Until Meeting Ends)
 -----------------------
 
-## Engineer
+## 工程师
 ### **阵营:船员**
-The Engineer (if alive) can fix a certain amount of sabotages per game from anywhere on the map.\
-The Engineer can use vents.\
-If the Engineer is inside a vent, depending on the options the members of the team Jackal/Impostors will see a blue outline around all vents on the map (in order to warn them).\
-Because of the vents the Engineer might not be able to start some tasks using the "Use" button, you can double-click on the tasks instead.
+The 工程师 (if alive) can fix a certain amount of sabotages per game from anywhere on the map.\
+The 工程师 can use vents.\
+If the 工程师 is inside a vent, depending on the options the members of the team 豺狼/Impostors will see a blue outline around all vents on the map (in order to warn them).\
+Because of the vents the 工程师 might not be able to start some tasks using the "Use" button, you can double-click on the tasks instead.
 
 **便签:**
-- The kill button of Impostors activates if they stand next to a vent where the Engineer is. They can also kill them there. No other action (e.g. Morphling sample, Shifter shift, ...) can affect players inside vents.
+- The kill button of Impostors activates if they stand next to a vent where the 工程师 is. They can also kill them there. No other action (e.g. 化形者 sample, 交换师 shift, ...) can affect players inside vents.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Engineer Spawn Chance | -
+| 工程师 Spawn Chance | -
 | Number Of Sabotage Fixes| -
 | Impostors See Vents Highlighted | -
-| Jackal and Sidekick See Vents Highlighted | -
+| 豺狼 and 跟班 See Vents Highlighted | -
 -----------------------
 
-## Sheriff
+## 警长
 ### **阵营:船员**
-The Sheriff has the ability to kill Impostors or Neutral roles if enabled.\
+The 警长 has the ability to kill Impostors or Neutral roles if enabled.\
 If they try to kill a Crewmate, they die instead.\
 \
 **便签:**
-- If the Sheriff shoots the person the Medic shielded, the Sheriff and the shielded person **both remain unharmed**.
-- If the Sheriff shoots a Mini Impostor while growing up, nothing happens. If it's fully grown, the Mini Impostor dies.
+- If the 警长 shoots the person the 医生 shielded, the 警长 and the shielded person **both remain unharmed**.
+- If the 警长 shoots a 迷你船员 Impostor while growing up, nothing happens. If it's fully grown, the 迷你船员 Impostor dies.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Sheriff Spawn Chance | -
-| Sheriff Cooldown | -
-| Sheriff Can Kill Neutrals | -
-| Sheriff Has A Deputy | Deputy can not be in game without Sheriff
+| 警长 Spawn Chance | -
+| 警长 Cooldown | -
+| 警长 Can Kill Neutrals | -
+| 警长 Has A 捕快 | 捕快 can not be in game without 警长
 -----------------------
 
-## Deputy
+## 捕快
 ### **阵营:船员**
-The Deputy has the ability to handcuff player.\
+The 捕快 has the ability to handcuff player.\
 Handcuffs will be hidden until the handcuffed player try to use a disabled button/hotkey.\
 Handcuffs disable:
 - Kill
@@ -769,52 +768,52 @@ Handcuffs disable:
 \
 **便签:**
 - Duration starts after the handcuffs become visible.
-- Deputy can not be in game without Sheriff.
+- 捕快 can not be in game without 警长.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Deputy Number Of Handcuffs | -
+| 捕快 Number Of Handcuffs | -
 | Handcuff Cooldown| -
 | Handcuff Duration | -
-| Sheriff And Deputy Know Each Other | -
-| Deputy Gets Promoted To Sheriff | "Off", "On (Immediately)" or "On (After Meeting)"
-| Deputy Keeps Handcuffs When Promoted |-
+| 警长 And 捕快 Know Each Other | -
+| 捕快 Gets Promoted To 警长 | "Off", "On (Immediately)" or "On (After Meeting)"
+| 捕快 Keeps Handcuffs When Promoted |-
 -----------------------
 
-## Lighter
+## 执灯人
 ### **阵营:船员**
-The Lighter has a different vision than everyone else depending on the settings.\
+The 执灯人 has a different vision than everyone else depending on the settings.\
 Their vision looks like a flashlight cone which can be moved around (known from the Hide'n'Seek mode).
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Lighter Spawn Chance | -
-| Vision On Lights On | The vision the Lighter has when the lights are on
-| Vision On Lights Off | The vision the Lighter has when the lights are down
+| 执灯人 Spawn Chance | -
+| Vision On Lights On | The vision the 执灯人 has when the lights are on
+| Vision On Lights Off | The vision the 执灯人 has when the lights are down
 | Flashlight Width | -
 -----------------------
 
-## Detective
+## 侦探
 ### **阵营:船员**
-The Detective can see footprints that other players leave behind.\
-The Detective's other feature shows when they report a corpse: they receive clues about the killer's identity. The type of information they get is based on the time it took them to find the corpse.
+The 侦探 can see footprints that other players leave behind.\
+The 侦探's other feature shows when they report a corpse: they receive clues about the killer's identity. The type of information they get is based on the time it took them to find the corpse.
 
 **便签:**
-- When people change their colors (because of a morph or camouflage), all the footprints also change their colors (also the ones that were already on the ground). If the effects are over, all footprints switch back to the original color.
-- The Detective does not see footprints of players that sit in vents
+- When people change their colors (because of a morph or camouflage), all the footprints also change their colors (also the ones that were already on the ground). If the effects are over, all footprints s女巫 back to the original color.
+- The 侦探 does not see footprints of players that sit in vents
 - More information about the [colors](#colors)
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Detective Spawn Chance | -
+| 侦探 Spawn Chance | -
 | Anonymous Footprints | If set to true, all footprints will have the same color. Otherwise they will have the color of the respective player.
 | Footprint Interval | The interval between two footprints
 | Footprint Duration | Sets how long the footprints remain visible.
-| Time Where Detective Reports Will Have 名字 | The amount of time that the Detective will have to report the body since death to get the killer's 名字.  |
-| Time Where Detective Reports Will Have Color Type| The amount of time that the Detective will have to report the body since death to get the killer's color type. |
+| Time Where 侦探 Reports Will Have 名字 | The amount of time that the 侦探 will have to report the body since death to get the killer's 名字.  |
+| Time Where 侦探 Reports Will Have Color Type| The amount of time that the 侦探 will have to report the body since death to get the killer's color type. |
 -----------------------
 
 ## Time Master
@@ -828,9 +827,9 @@ The Time Master won't be affected by the rewind.
 
 **便签:**
 - Only the movement is affected by the rewind.
-- A Vampire bite will trigger the rewind. If the Time Master misses shielding the bite, they can still shield the kill which happens a few seconds later.
+- A 吸血鬼 bite will trigger the rewind. If the Time Master misses shielding the bite, they can still shield the kill which happens a few seconds later.
 - If the Time Master was bitten and has their shield active before when a meeting is called, they survive but the time won't be rewound.
-- If the Time Master has a Medic shield, they won't rewind.
+- If the Time Master has a 医生 shield, they won't rewind.
 - The shield itself ends immediately when triggered. So the Time Master can be attacked again as soon as the rewind ends.
 
 ### 游戏设置
@@ -842,37 +841,37 @@ The Time Master won't be affected by the rewind.
 | Time Master Shield Duration |
 -----------------------
 
-## Medic
+## 医生
 ### **阵营:船员**
-The Medic can shield (highlighted by an outline around the player) one player per game, which makes the player unkillable.\
+The 医生 can shield (highlighted by an outline around the player) one player per game, which makes the player unkillable.\
 The shielded player can still be voted out and might also be an Impostor.\
-If set in the options, the shielded player and/or the Medic will get a red flash on their screen if someone (Impostor, Sheriff, ...) tried to murder them.\
-If the Medic dies, the shield disappears with them.\
-The Sheriff will not die if they try to kill a shielded Crewmate and won't perform a kill if they try to kill a shielded Impostor.\
-Depending on the options, guesses from the Guesser will be blocked by the shield and the shielded player/medic might be notified.\
-The Medic's other feature shows when they report a corpse: they will see how long ago the player died.
+If set in the options, the shielded player and/or the 医生 will get a red flash on their screen if someone (Impostor, 警长, ...) tried to murder them.\
+If the 医生 dies, the shield disappears with them.\
+The 警长 will not die if they try to kill a shielded Crewmate and won't perform a kill if they try to kill a shielded Impostor.\
+Depending on the options, guesses from the 赌怪 will be blocked by the shield and the shielded player/医生 might be notified.\
+The 医生's other feature shows when they report a corpse: they will see how long ago the player died.
 
 **便签:**
-- If the shielded player is a Lover and the other Lover dies, they nevertheless kill themselves.
-- If the Shifter has a shield or their target has a Shield, the shielded player switches.
+- If the shielded player is a 恋人 and the other 恋人 dies, they nevertheless kill themselves.
+- If the 交换师 has a shield or their target has a Shield, the shielded player s女巫es.
 - Shields set after the next meeting, will be set before a possible shift is being performed.
 
 ### 游戏设置
 | 名字 | 描述 | Options |
 |----------|:-------------:|:-------------:|
-| Medic Spawn Chance | - | -
-| Show Shielded Player | Sets who sees if a player has a shield | "Everyone", "Shielded + Medic", "Medic"
+| 医生 Spawn Chance | - | -
+| Show Shielded Player | Sets who sees if a player has a shield | "Everyone", "Shielded + 医生", "医生"
 | Shielded Player Sees Murder Attempt| Whether a shielded player sees if someone tries to kill them | True/false |
 | Shield Will Be Activated | Sets when the shield will be active | "Instantly", "Instantly, Visible After Meeting", "After Meeting"
-| Medic Sees Murder Attempt On Shielded Player | - | If anyone tries to harm the shielded player (Impostor, Sheriff, Guesser, ...), the Medic will see a red flash
+| 医生 Sees Murder Attempt On Shielded Player | - | If anyone tries to harm the shielded player (Impostor, 警长, 赌怪, ...), the 医生 will see a red flash
 -----------------------
 
-## Swapper
+## 换票师
 ### **阵营:船员**
-During meetings the Swapper can exchange votes that two people get (i.e. all votes
+During meetings the 换票师 can exchange votes that two people get (i.e. all votes
 that player A got will be given to player B and vice versa).\
-Because of the Swapper's strength in meetings, they might not start emergency meetings and can't fix lights and comms.\
-The Swapper now has initial swap charges and can recharge those charges after completing a configurable amount of tasks.\
+Because of the 换票师's strength in meetings, they might not start emergency meetings and can't fix lights and comms.\
+The 换票师 now has initial swap charges and can recharge those charges after completing a configurable amount of tasks.\
 \
 **便签:**
 - The remaining charges will be displayed in brackets next to the players role while not in a meeting
@@ -881,59 +880,59 @@ The Swapper now has initial swap charges and can recharge those charges after co
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Swapper Spawn Chance | -
-| Swapper can call emergency meeting | Option to disable the emergency button for the Swapper
-| Swapper can only swap others | Sets whether the Swapper can swap themself or not
+| 换票师 Spawn Chance | -
+| 换票师 can call emergency meeting | Option to disable the emergency button for the 换票师
+| 换票师 can only swap others | Sets whether the 换票师 can swap themself or not
 | Initial Swap Charges | -
 | Number Of Tasks Needed For Recharging | -
 -----------------------
 
-## Seer
+## 灵媒
 ### **阵营:船员**
-The Seer has two abilities (one can activate one of them or both in the options).\
-The Seer sees the souls of players that died a round earlier, the souls slowly fade away.\
-The Seer gets a blue flash on their screen, if a player dies somewhere on the map.
+The 灵媒 has two abilities (one can activate one of them or both in the options).\
+The 灵媒 sees the souls of players that died a round earlier, the souls slowly fade away.\
+The 灵媒 gets a blue flash on their screen, if a player dies somewhere on the map.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Seer Spawn Chance | -
-| Seer Mode | Options: Show death flash and souls, show death flash, show souls
-| Seer Limit Soul Duration | Toggle if souls should turn invisible after a while
-| Seer Soul Duration | Sets how long it will take the souls to turn invisible after a meeting
+| 灵媒 Spawn Chance | -
+| 灵媒 Mode | Options: Show death flash and souls, show death flash, show souls
+| 灵媒 Limit Soul Duration | Toggle if souls should turn invisible after a while
+| 灵媒 Soul Duration | Sets how long it will take the souls to turn invisible after a meeting
 -----------------------
 
-## Hacker
+## 黑客
 ### **阵营:船员**
-If the Hacker activates the "Hacker mode", the Hacker gets more information than others from the admin table and vitals for a set duration.\
+If the 黑客 activates the "黑客 mode", the 黑客 gets more information than others from the admin table and vitals for a set duration.\
 Otherwise they see the same information as everyone else.\
-**Admin table:** The Hacker can see the colors (or color types) of the players on the table.\
-**Vitals**: The Hacker can see how long dead players have been dead for.\
-The Hacker can access his mobile gadgets (vitals & admin table), with a maximum of charges (uses) and a configurable amount of tasks needed to recharge.\
-While accessing those mobile gadgets, the Hacker is not able to move.
+**Admin table:** The 黑客 can see the colors (or color types) of the players on the table.\
+**Vitals**: The 黑客 can see how long dead players have been dead for.\
+The 黑客 can access his mobile gadgets (vitals & admin table), with a maximum of charges (uses) and a configurable amount of tasks needed to recharge.\
+While accessing those mobile gadgets, the 黑客 is not able to move.
 
 **便签:**
-- If the Morphling morphs or the Camouflager camouflages, the colors on the admin table change accordingly
+- If the 化形者 morphs or the 隐蔽者 camouflages, the colors on the admin table change accordingly
 - More information about the [colors](#colors)
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Hacker Spawn Chance | -
-| Hacker Cooldown | -
-| Hacker Duration | Sets how long the "Hacker mode" remains active
-| Hacker Only Sees Color Type | Sets if the Hacker sees the player colors on the admin table or only white/gray (for Lighter and darker colors)
+| 黑客 Spawn Chance | -
+| 黑客 Cooldown | -
+| 黑客 Duration | Sets how long the "黑客 mode" remains active
+| 黑客 Only Sees Color Type | Sets if the 黑客 sees the player colors on the admin table or only white/gray (for 执灯人 and darker colors)
 | Max Mobile Gadget Charges | -
 | Number Of Tasks Needed For Recharging | Number of tasks to get a charge
 | Can't Move During Cam Duration | -
 -----------------------
 
-## Tracker
+## 追踪者
 ### **阵营:船员**
-The Tracker can select one player to track. Depending on the options the Tracker can track a different person after each meeting or the Tracker tracks the same person for the whole game.\
+The 追踪者 can select one player to track. Depending on the options the 追踪者 can track a different person after each meeting or the 追踪者 tracks the same person for the whole game.\
 An arrow points to the last tracked position of the player.\
 The arrow updates its position every few seconds (configurable).\
-Depending on the options, the Tracker has another ability: They can track all corpses on the map for a set amount of time. They will keep tracking corpses, even if they were cleaned or eaten by the Vulture.
+Depending on the options, the 追踪者 has another ability: They can track all corpses on the map for a set amount of time. They will keep tracking corpses, even if they were cleaned or eaten by the 秃鹫.
 
 **便签**
 - If the tracked player is on a different floor on Submerged, the arrow will always point to the elevator
@@ -941,76 +940,76 @@ Depending on the options, the Tracker has another ability: They can track all co
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Tracker Spawn Chance | -
-| Tracker Update Interval | Sets how often the position is being updated
-| Tracker Reset Target After Meeting | -
-| Tracker Can Track Corpses | -
+| 追踪者 Spawn Chance | -
+| 追踪者 Update Interval | Sets how often the position is being updated
+| 追踪者 Reset Target After Meeting | -
+| 追踪者 Can Track Corpses | -
 | Corpses Tracking Cooldown | -
 | Corpses Tracking Duration | -
 -----------------------
 
-## Snitch
+## 告密者
 ### **阵营:船员**
-When the Snitch finishes all their tasks, they will get information in chat of the last location of all killers when the meeting starts.\
-When the Snitch only has a configurable amount of tasks left, it will be revealed that there is a Snitch in the game with a text on evil player's screens.
+When the 告密者 finishes all their tasks, they will get information in chat of the last location of all killers when the meeting starts.\
+When the 告密者 only has a configurable amount of tasks left, it will be revealed that there is a 告密者 in the game with a text on evil player's screens.
 
 **便签:**
-- If the Snitch dies, all killers will be informed that the Snitch is dead
+- If the 告密者 dies, all killers will be informed that the 告密者 is dead
 - Last location can be a room or open field
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Snitch Spawn Chance | -
-| Task Count Where The Snitch Will Be Revealed | -
-| Information Mode  | Whether the snitch will get info on the map and/or in the chat 
-| Targets | Snitch Will See All Evil Players or Killing Evil Players
+| 告密者 Spawn Chance | -
+| Task Count Where The 告密者 Will Be Revealed | -
+| Information Mode  | Whether the 告密者 will get info on the map and/or in the chat 
+| Targets | 告密者 Will See All Evil Players or Killing Evil Players
 -----------------------
 
-## Spy
+## 卧底
 ### **阵营:船员**
-The Spy is a Crewmate, which has no special abilities.\
-The Spy looks like an additional Impostor to the Impostors, they can't tell the difference.\
+The 卧底 is a Crewmate, which has no special abilities.\
+The 卧底 looks like an additional Impostor to the Impostors, they can't tell the difference.\
 There are two possibilities (depending on the set options):
-- The Impostors can't kill the Spy (because otherwise their kill button would reveal, who the Spy is)
-- The Impostors can kill the Spy but they can also kill their Impostor partner (if they mistake another Impostor for the Spy)
-You can set whether the Sheriff can kill the Spy or not (in order to keep the lie alive).
+- The Impostors can't kill the 卧底 (because otherwise their kill button would reveal, who the 卧底 is)
+- The Impostors can kill the 卧底 but they can also kill their Impostor partner (if they mistake another Impostor for the 卧底)
+You can set whether the 警长 can kill the 卧底 or not (in order to keep the lie alive).
 
 **便签:**
-- If the Spy gets sidekicked, it still will appear red to the Impostors.
+- If the 卧底 gets 跟班ed, it still will appear red to the Impostors.
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Spy Spawn Chance |
-| Spy Can Die To Sheriff |
-| Impostors Can Kill Anyone If There Is A Spy | This allows the Impostors to kill both the Spy and their Impostor partners
-| Spy Can Enter Vents | Allow the Spy to enter/exit vents (but not actually move to connected vents)
-| Spy Has Impostor Vision | Give the Spy the same vision as the Impostors have
+| 卧底 Spawn Chance |
+| 卧底 Can Die To 警长 |
+| Impostors Can Kill Anyone If There Is A 卧底 | This allows the Impostors to kill both the 卧底 and their Impostor partners
+| 卧底 Can Enter Vents | Allow the 卧底 to enter/exit vents (but not actually move to connected vents)
+| 卧底 Has Impostor Vision | Give the 卧底 the same vision as the Impostors have
 -----------------------
 
-## Portalmaker
+## 传送师
 ### **阵营:船员**
-The Portalmaker is a Crewmate that can place two portals on the map.\
+The 传送师 is a Crewmate that can place two portals on the map.\
 These two portals are connected to each other.\
 Those portals will be visible after the next meeting and can be used by everyone.\
-Additionally to that, the Portalmaker gets information about who used the portals and when in the chat during each meeting, depending on the options.\
-The Portalmaker can teleport themself to their placed portals from anywhere if the setting is enabled.
+Additionally to that, the 传送师 gets information about who used the portals and when in the chat during each meeting, depending on the options.\
+The 传送师 can teleport themself to their placed portals from anywhere if the setting is enabled.
 
 **便签:**
-- The extra button to use a portal will appear after the Portalmaker set their portals and a meeting/body report was called.
+- The extra button to use a portal will appear after the 传送师 set their portals and a meeting/body report was called.
 - While one player uses a portal, it is blocked for any other player until the player got teleported.
-- All ghosts can still use the portals, but won't block any living player from using it and the Portalmaker won't get any information about it in chat.
+- All ghosts can still use the portals, but won't block any living player from using it and the 传送师 won't get any information about it in chat.
 - If a morphed person uses a portal it will show the morphed 名字/color depending on the options.
 - If a camouflaged person uses a portal it will show "A comouflaged person used the portal."
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Portalmaker Spawn Chance | -
-| Portalmaker Cooldown | -
+| 传送师 Spawn Chance | -
+| 传送师 Cooldown | -
 | Use Portal Cooldown | -
-| Portalmaker Log Only Shows Color Type | -
+| 传送师 Log Only Shows Color Type | -
 | Log Shows Time | -
 | Can Port To Portal From Everywhere | -
 -----------------------
@@ -1023,7 +1022,7 @@ The new camera will be visible after the next meeting and accessible by everyone
 The vents will be sealed after the next meeting, players can't enter or exit sealed vents, but they can still "move to them" underground.
 
 **便签:**
-- Trickster boxes can't be sealed
+- 骗术师 boxes can't be sealed
 - The Security Guard can't place cameras on MiraHQ
 - The remaining number of screws can be seen above their special button.
 - On Skeld the four cameras will be replaced every 3 seconds (with the next four cameras). You can also navigate manually using the arrow keys
@@ -1044,27 +1043,27 @@ The vents will be sealed after the next meeting, players can't enter or exit sea
 | Can't Move During Cam Duration | -
 -----------------------
 
-## Medium
+## 医生
 ### **阵营:船员**
-The medium is a crewmate who can ask the souls of dead players for information. Like the Seer, the medium will see the souls of the players who have died (after the next meeting) and can question them. They then gets random information about the soul or the killer in the chat. The souls only stay for one round, i.e. until the next meeting. Depending on the options, the souls can only be questioned once and then disappear.
+The 医生 is a crewmate who can ask the souls of dead players for information. Like the 灵媒, the 医生 will see the souls of the players who have died (after the next meeting) and can question them. They then gets random information about the soul or the killer in the chat. The souls only stay for one round, i.e. until the next meeting. Depending on the options, the souls can only be questioned once and then disappear.
 \
 **Questions:**
 The souls will always prefer to answer with the role specific information first!
 
 **Role specific:**
-- Sheriff suicide: "Yikes, that Sheriff shot backfired."
-- Thief suicide: "I tried to steal the gun from their pocket, but they were just happy to see me."
-- Active Lover dies: "I wanted to get out of this toxic relationship anyways."
-- Passiv Lover suicide: "The love of my life died, thus with a kiss I die."
-- Lawyer client kills Lawyer: "My client killed me. Do I still get paid?"
-- Teamkill Jackal/Sidekick: "First they sidekicked me, then they killed me... BUT WHY?"
-- Teamkill Impostor: "I guess they confused me for the Spy, is there even one?"
+- 警长 suicide: "Yikes, that 警长 shot backfired."
+- 窃贼 suicide: "I tried to steal the gun from their pocket, but they were just happy to see me."
+- Active 恋人 dies: "I wanted to get out of this toxic relationship anyways."
+- Passiv 恋人 suicide: "The love of my life died, thus with a kiss I die."
+- 律师 client kills 律师: "My client killed me. Do I still get paid?"
+- Teamkill 豺狼/跟班: "First they 跟班ed me, then they killed me... BUT WHY?"
+- Teamkill Impostor: "I guess they confused me for the 卧底, is there even one?"
 - Submerged o2-Kill: "Do I really need that mask for breathing?"
-- Warlock self kill: "MAYBE I cursed the person next to me and killed myself. Oops."
-- Vulture/Cleaner eats/cleans body: "Is my dead body some kind of art now or... aaand it's gone."
+- 术士 self kill: "MAYBE I cursed the person next to me and killed myself. Oops."
+- 秃鹫/清理者 eats/cleans body: "Is my dead body some kind of art now or... aaand it's gone."
 
 **Else random:**
-- "I'm not sure, but I guess a darker/lighter color killed me."
+- "I'm not sure, but I guess a darker/执灯人 color killed me."
 - "If I counted correctly, then I died x seconds before the meeting started."
 - "If my role hasn't been saved, there's no (role) in the game anymore."
 - "It seems like my killer was the (role)."
@@ -1077,32 +1076,32 @@ The souls will always prefer to answer with the role specific information first!
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Medium Spawn Chance | -
-| Medium Cooldown | -
-| Medium Duration | The time it takes to question a soul
-| Medium Each Soul Can Only Be Questioned Once | If set to true, souls can only be questioned once and then disappear
-| Chance That The Answer Contains The Remaining Amount Of Killing Roles | Chance includes Sheriff and Thief
+| 医生 Spawn Chance | -
+| 医生 Cooldown | -
+| 医生 Duration | The time it takes to question a soul
+| 医生 Each Soul Can Only Be Questioned Once | If set to true, souls can only be questioned once and then disappear
+| Chance That The Answer Contains The Remaining Amount Of Killing Roles | Chance includes 警长 and 窃贼
 -----------------------
 
-## Trapper
+## 猎人
 ### **阵营:船员**
-The Trapper is a crewmate which can set up traps to trap player and gain information from them.\
+The 猎人 is a crewmate which can set up traps to trap player and gain information from them.\
 The traps will stuck player for x-seconds (depends on the setting) and reveal information in chat
 about their "Role", if they are a "Good/Evil Role" or their "名字".\
 The trap is not visible until a configurable amount of player were trapped.\
-When the trap gets visible, the Trapper will gain the information in chat (in a random order).\
-If a trap is triggered (and the option is enabled), the map of the Trapper will open up and show which trap
+When the trap gets visible, the 猎人 will gain the information in chat (in a random order).\
+If a trap is triggered (and the option is enabled), the map of the 猎人 will open up and show which trap
 was triggered.\
 The traps have a maximum of charges (uses) and a configurable amount of tasks are needed to recharge.\
 \
 **便签:**
-- The Trapper can't be trapped in their own trap(s).
+- The 猎人 can't be trapped in their own trap(s).
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Trapper Spawn Chance | -
-| Trapper Cooldown | -
+| 猎人 Spawn Chance | -
+| 猎人 Cooldown | -
 | Max Traps Charges | -
 | Number Of Tasks Needed For Recharging | -
 | Trap Needed Trigger To Reveal | -
@@ -1111,32 +1110,32 @@ The traps have a maximum of charges (uses) and a configurable amount of tasks ar
 | Trap Duration | -
 -----------------------
 
-# Modifier
-A Modifier is an addition to your Impostor/Neutral/Crewmate role.
-Some Modifiers can be ingame more than once (Quantity option).
+# 附加职业
+A 附加职业 is an addition to your Impostor/Neutral/Crewmate role.
+Some 附加职业s can be ingame more than once (Quantity option).
 
-## Bloody
+## 溅血者
 
-If killed, the Bloody Modifier will leave a trail for x-seconds on their killer. The trail will have the color of the killed person.\
+If killed, the 溅血者 附加职业 will leave a trail for x-seconds on their killer. The trail will have the color of the killed person.\
 \
 **便签**
-- Impostor, Neutral or Crewmate roles can have this Modifier
+- Impostor, Neutral or Crewmate roles can have this 附加职业
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Bloody Spawn Chance | -
-| Bloody Quantity | -
+| 溅血者 Spawn Chance | -
+| 溅血者 Quantity | -
 | Trail duration | -
 -----------------------
 
 ## Anti Teleport
 
-The Anti Teleport Modifier prevents the player from getting teleported to the Meeting Table if a body gets reported or an Emergency Meeting is called.\
+The Anti Teleport 附加职业 prevents the player from getting teleported to the Meeting Table if a body gets reported or an Emergency Meeting is called.\
 The player will start the round where the previous one ended (Emergency Meeting Call/Body Report).\
 \
 **便签**
-- Impostor, Neutral or Crewmate roles can have this Modifier
+- Impostor, Neutral or Crewmate roles can have this 附加职业
 
 ### 游戏设置
 | 名字 | 描述 |
@@ -1147,12 +1146,12 @@ The player will start the round where the previous one ended (Emergency Meeting 
 
 ## Tie Breaker
 
-If the Voting ends in a tie, the Tie Breaker takes place and the player with the Tie Breaker Modifier gets an extra vote thats not visible to anyone.\
+If the Voting ends in a tie, the Tie Breaker takes place and the player with the Tie Breaker 附加职业 gets an extra vote thats not visible to anyone.\
 Everyone will know if the Tie Breaker was involved in the Meeting or not.\
 \
 **便签**
-- Impostor, Neutral or Crewmate roles can have this Modifier
-- There can only be on player with this Modifier
+- Impostor, Neutral or Crewmate roles can have this 附加职业
+- There can only be on player with this 附加职业
 
 ### 游戏设置
 | 名字 | 描述 |
@@ -1160,106 +1159,106 @@ Everyone will know if the Tie Breaker was involved in the Meeting or not.\
 | Tie Breaker Spawn Chance | -
 -----------------------
 
-## Bait
+## 诱饵
 
-The Bait forces the killer to self report the body (you can configure a delay in the options).\
-There can be more than one Bait.
+The 诱饵 forces the killer to self report the body (you can configure a delay in the options).\
+There can be more than one 诱饵.
 
 **便签:**
-- If the Sheriff has the Bait Modifier and dies while trying to kill a Crewmate, the Sheriff will *NOT* report themself.
-- Impostor, Neutral or Crewmate roles can have this Modifier
+- If the 警长 has the 诱饵 附加职业 and dies while trying to kill a Crewmate, the 警长 will *NOT* report themself.
+- Impostor, Neutral or Crewmate roles can have this 附加职业
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Bait Spawn Chance | -
-| Bait Quantity | -
-| Bait Report Delay Min | -
-| Bait Report Delay Max | -
+| 诱饵 Spawn Chance | -
+| 诱饵 Quantity | -
+| 诱饵 Report Delay Min | -
+| 诱饵 Report Delay Max | -
 | Warn The Killer With A Flash | -
 -----------------------
 
-## Lovers
+## 恋人s
 
-There are always two Lovers which are linked together.\
+There are always two 恋人s which are linked together.\
 Their primary goal is it to stay alive together until the end of the game.\
-If one Lover dies (and the option is activated), the other Lover suicides.\
-You can specify the chance of one Lover being an Impostor.\
-The Lovers never know the role of their partner, they only see who their partner is.\
-The Lovers win, if they are both alive when the game ends. They can also win with their original team (e.g. a dead Impostor Lover can win with the Impostors, an Arsonist Lover can still achieve an Arsonist win).\
-If one of the Lovers is a killer (i.e. Jackal/Sidekick/Impostor), they can achieve a "Lovers solo win" where only the Lovers win.\
-If there is no killer among the Lovers (e.g. an Arsonist Lover + Crewmate Lover) and they are both alive when the game ends, they win together with the Crewmates.\
-If there's an Impostor/Jackal + Crewmate Lover in the game, the tasks of a Crewmate Lover won't be counted (for a task win) as long as they're alive.\
-If the Lover dies, their tasks will also be counted.\
-You can enable an exclusive chat only for Lovers.
+If one 恋人 dies (and the option is activated), the other 恋人 suicides.\
+You can specify the chance of one 恋人 being an Impostor.\
+The 恋人s never know the role of their partner, they only see who their partner is.\
+The 恋人s win, if they are both alive when the game ends. They can also win with their original team (e.g. a dead Impostor 恋人 can win with the Impostors, an 小丑 恋人 can still achieve an 小丑 win).\
+If one of the 恋人s is a killer (i.e. 豺狼/跟班/Impostor), they can achieve a "恋人s solo win" where only the 恋人s win.\
+If there is no killer among the 恋人s (e.g. an 小丑 恋人 + Crewmate 恋人) and they are both alive when the game ends, they win together with the Crewmates.\
+If there's an Impostor/豺狼 + Crewmate 恋人 in the game, the tasks of a Crewmate 恋人 won't be counted (for a task win) as long as they're alive.\
+If the 恋人 dies, their tasks will also be counted.\
+You can enable an exclusive chat only for 恋人s.
 
 **便签:**
-In a 2 Crewmates vs 2 Impostors (or 2 members of team Jackal) and the Lovers are not in the same team, the game is not automatically over since the Lovers can still achieve a solo win. E.g. if there are the following roles Impostor + ImpLover + Lover + Crewmate left, the game will not end and the next kill will decide if the Impostors or Lovers win.
+In a 2 Crewmates vs 2 Impostors (or 2 members of team 豺狼) and the 恋人s are not in the same team, the game is not automatically over since the 恋人s can still achieve a solo win. E.g. if there are the following roles Impostor + Imp恋人 + 恋人 + Crewmate left, the game will not end and the next kill will decide if the Impostors or 恋人s win.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Lovers Spawn Chance | -
-| Chance That One Lover Is Impostor | -
-| Both Lovers Die | Whether the second Lover suicides, if the first one dies
-| Enable Lover Chat | -
+| 恋人s Spawn Chance | -
+| Chance That One 恋人 Is Impostor | -
+| Both 恋人s Die | Whether the second 恋人 suicides, if the first one dies
+| Enable 恋人 Chat | -
 -----------------------
 
 **便签:**
-- The Modifier **Lover** can't be guessed, you'll have to guess the primary role of one of the Lovers, to kill both of them.
+- The 附加职业 **恋人** can't be guessed, you'll have to guess the primary role of one of the 恋人s, to kill both of them.
 
-## Sunglasses
+## 太阳镜
 
-The Sunglasses will lower the Crewmate's vision by a small percentage. The percentage is configurable in the options.\
+The 太阳镜 will lower the Crewmate's vision by a small percentage. The percentage is configurable in the options.\
 The vision will also be affected when lights out.
 
 **便签:**
-- Sunglasses only affects Crewmates.
-- If you have the Sunglasses Modifier and get sidekicked, you will lose the Modifier.
+- 太阳镜 only affects Crewmates.
+- If you have the 太阳镜 附加职业 and get 跟班ed, you will lose the 附加职业.
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Sunglasses Spawn Chance | -
-| Sunglasses Quantity | -
-| Vision with sunglasses | -
+| 太阳镜 Spawn Chance | -
+| 太阳镜 Quantity | -
+| Vision with 太阳镜 | -
 -----------------------
 
-## Mini
+## 迷你船员
 
-The Mini's character is smaller and hence visible to everyone in the game.\
-The Mini cannot be killed until it turns 18 years old, however it can be voted out.
+The 迷你船员's character is smaller and hence visible to everyone in the game.\
+The 迷你船员 cannot be killed until it turns 18 years old, however it can be voted out.
 
-**Impostor/Jackal Mini:**
+**Impostor/豺狼 迷你船员:**
 - While growing up the kill cooldown is doubled. When it's fully grown up its kill cooldown is 2/3 of the default one.
 - If it gets thrown out of the ship, everything is fine.
 
-**Crewmate Mini:**
-- The Crewmate Mini aims to play out the strength its invincibility in the early game.
-- If it gets thrown out of the ship before it turns 18, everyone loses. So think twice before you vote out a Mini.
+**Crewmate 迷你船员:**
+- The Crewmate 迷你船员 aims to play out the strength its invincibility in the early game.
+- If it gets thrown out of the ship before it turns 18, everyone loses. So think twice before you vote out a 迷你船员.
 
-**Neutral Mini:**
-- The cooldown is not effected, except for the Team Jackal/Sidekick.
-- If it gets thrown out of the ship, everything is fine except for the Jester.
-- If the Jester Mini gets voted out the game will end in a Jester win.
+**Neutral 迷你船员:**
+- The cooldown is not effected, except for the Team 豺狼/跟班.
+- If it gets thrown out of the ship, everything is fine except for the 小丑.
+- If the 小丑 迷你船员 gets voted out the game will end in a 小丑 win.
 
 **便签:**
-- If the Sheriff tries to kill the Mini before it's fully grown, nothing happens.
-- The Sheriff can kill the Impostor/Neutral Mini, but only if it's fully grown up.
-- If the Mini's primary role is guessed correctly, it dies like every other role and nothing further happens.
+- If the 警长 tries to kill the 迷你船员 before it's fully grown, nothing happens.
+- The 警长 can kill the Impostor/Neutral 迷你船员, but only if it's fully grown up.
+- If the 迷你船员's primary role is guessed correctly, it dies like every other role and nothing further happens.
 
 ### 游戏设置
 | 名字 | 描述 |
 |----------|:-------------:|
-| Mini Spawn Chance | -
-| Mini  | Mini Growing Up Duration
-| Mini Grows Up In Meeting | -
+| 迷你船员 Spawn Chance | -
+| 迷你船员  | 迷你船员 Growing Up Duration
+| 迷你船员 Grows Up In Meeting | -
 -----------------------
 
 ## VIP
 
-An Impostor, Jackal or Crewmate can be affected by the VIP (Very Important Player) Modifier.\
-The VIP will show everyone when he dies with a flash similar to the Seer Flash.\
+An Impostor, 豺狼 or Crewmate can be affected by the VIP (Very Important Player) 附加职业.\
+The VIP will show everyone when he dies with a flash similar to the 灵媒 Flash.\
 If the option Show Team Color is On, then everyone will get a flash in the color of the team the player was part of.
 
 Teams:
@@ -1275,100 +1274,100 @@ Teams:
 | Show Team Color | -
 -----------------------
 
-## Invert
+## 酒鬼
 
-The Invert Modifier inverts your controls (no matter if keyboard or mouse).\
+The 酒鬼 附加职业 酒鬼s your controls (no matter if keyboard or mouse).\
 \
 **便签**
-- Impostor, Neutral or Crewmate roles can have this Modifier
+- Impostor, Neutral or Crewmate roles can have this 附加职业
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Invert Spawn Chance | -
-| Invert Quantity | -
+| 酒鬼 Spawn Chance | -
+| 酒鬼 Quantity | -
 -----------------------
 
-## Chameleon
+## 变色龙
 
-The Chameleon becomes (partially or fully) invisible when standing still for x-seconds (depends on the settings).\
+The 变色龙 becomes (partially or fully) invisible when standing still for x-seconds (depends on the settings).\
 \
 **便签**
 - You can use abilities while being invisible, only moving will make you visible again
-- Impostor, Neutral or Crewmate roles can have this Modifier
+- Impostor, Neutral or Crewmate roles can have this 附加职业
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Chameleon Spawn Chance | -
-| Chameleon Quantity | -
+| 变色龙 Spawn Chance | -
+| 变色龙 Quantity | -
 | Time Until Fading Starts | -
 | Fade Duration | - 
-| Minimum Visibility | -
+| 迷你船员mum Visibility | -
 -----------------------
 
-## Shifter
+## 交换师
 
-The Shifter is a Modifier that can shift with another player. If the other player is Crewmate as well, they will swap their roles.\
-Swapping roles with an Impostor or Neutral fails and the Shifter commits suicide after the next meeting (there won't be a body).\
+The 交换师 is a 附加职业 that can shift with another player. If the other player is Crewmate as well, they will swap their roles.\
+Swapping roles with an Impostor or Neutral fails and the 交换师 commits suicide after the next meeting (there won't be a body).\
 The Shift will always be performed at the end of the next meeting right before a player is exiled. The target needs to be chosen during the round.\
-Even if the Shifter or the target dies before the meeting, the Shift will still be performed.\
+Even if the 交换师 or the target dies before the meeting, the Shift will still be performed.\
 \
 **便签:**
-- The Shifter shift will always be triggered before the Erase (hence either the new role of the Shifter will be erased or the Shifter gets the role of their target, depending on whom the Eraser erased)
-- One time use abilities (e.g. shielding a player or Engineer sabotage fix) can only used by one player in the game (i.e. the Shifter
+- The 交换师 shift will always be triggered before the Erase (hence either the new role of the 交换师 will be erased or the 交换师 gets the role of their target, depending on whom the 抹除者 erased)
+- One time use abilities (e.g. shielding a player or 工程师 sabotage fix) can only used by one player in the game (i.e. the 交换师
 can only use them, if the previous player did not use them before)
-- The Shifter button is located in the bottom left corner right next to the garlic button (if the Vampire is enabled)
-- Only a Crewmate role can have this Modifier
+- The 交换师 button is located in the bottom left corner right next to the garlic button (if the 吸血鬼 is enabled)
+- Only a Crewmate role can have this 附加职业
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Shifter Spawn Chance | -
+| 交换师 Spawn Chance | -
 -----------------------
 
-# Gamemodes
-Gamemodes can be switched when creating a lobby or inside the lobby by using a command in the chat:
-`/gm <gamemode>`. Use the following gamemodes: `guess` or `gm`,`prophunt` or `ph`, `hidenseek` or `hns`. If `/gm` is used without argument or the argument can't be parsed, the lobby will switch to classic mode.
+# 游戏模式s
+游戏模式s can be s女巫ed when creating a lobby or inside the lobby by using a command in the chat:
+`/gm <游戏模式>`. Use the following 游戏模式s: `guess` or `gm`,`变形躲猫猫模式` or `ph`, `hidenseek` or `hns`. If `/gm` is used without argument or the argument can't be parsed, the lobby will s女巫 to classic mode.
 
 
-## Guesser Modifier
-The **Guesser-Gamemode** is an extension to the Classic-Gamemode and gives you a multitude of new options for Guessers.\
-The Guesser is now like an addition and can be applied to all players IF you want to. Settings are available to set the number of guessers for each team separately (Impostor, Neutral, Crewmate).\
-When playing this game mode, the Guessers can have another role (e.g. Medic Guesser). The same
+## 赌怪模式
+The **赌怪-游戏模式** is an extension to the Classic-游戏模式 and gives you a multitude of new options for 赌怪s.\
+The 赌怪 is now like an addition and can be applied to all players IF you want to. Settings are available to set the number of 赌怪s for each team separately (Impostor, Neutral, Crewmate).\
+When playing this game mode, the 赌怪s can have another role (e.g. 医生 赌怪). The same
 applies of course for Impostor and/or Neutral roles.\
-Players can additionally have a modifier, if enabled (e.g. Medic Guesser Mini).
+Players can additionally have a 附加职业, if enabled (e.g. 医生 赌怪 迷你船员).
 
 ### 游戏设置
 | 名字 | 描述
 |----------|:-------------:|
-| Number of Crew Guessers | -
-| Number of Neutral Guessers | -
-| Number of Impostor Guessers | -
-| Force Jackal Guesser | If set to "On", the first neutral role who will be Guesser is the Jackal. 
-| Force Thief Guesser | If set to "On", the first (or second if Force Jackal Guesser) neutral role who will be Guesser is the Thief. 
-| Guessers Can Have A Modifier | -
-| Guesser Number Of Shots | -
-| Guesser Can Shoot Multiple Times Per Meeting | -
-| Guesses Ignore The Medic Shield | -
-| Evil Guesser Can Guess The Spy | -
-| Guesser Can't Guess Snitch When Tasks Completed | -
+| Number of Crew 赌怪s | -
+| Number of Neutral 赌怪s | -
+| Number of Impostor 赌怪s | -
+| Force 豺狼 赌怪 | If set to "On", the first neutral role who will be 赌怪 is the 豺狼. 
+| Force 窃贼 赌怪 | If set to "On", the first (or second if Force 豺狼 赌怪) neutral role who will be 赌怪 is the 窃贼. 
+| 赌怪s Can Have A 附加职业 | -
+| 赌怪 Number Of Shots | -
+| 赌怪 Can Shoot Multiple Times Per Meeting | -
+| Guesses Ignore The 医生 Shield | -
+| Evil 赌怪 Can Guess The 卧底 | -
+| 赌怪 Can't Guess 告密者 When Tasks Completed | -
 -----------------------
 
 **便签**
-- If a Crewmate Guesser gets sidekicked, they will remain a Guesser even if the host (maybe) has set up only 1 "Neutral role Guesser".
+- If a Crewmate 赌怪 gets 跟班ed, they will remain a 赌怪 even if the host (maybe) has set up only 1 "Neutral role 赌怪".
 
 ## Hide 'n Seek
-The **Hide 'n Seek-Gamemode** is a standalone Gamemode where Hunter have to catch their prey ("Hunted" players).\
-The Hunter and Hunted player who are still alive are displayed to everyone in the bottom left corner (similar to the Arsonist display).\
+The **Hide 'n Seek-游戏模式** is a standalone 游戏模式 where Hunter have to catch their prey ("Hunted" players).\
+The Hunter and Hunted player who are still alive are displayed to everyone in the bottom left corner (similar to the 小丑 display).\
 When the game starts, the Hunter's movement is disabled for x-seconds (depends on the settings).\
 There is a time-limit for each round, if the timer runs out and at least one Hunted is still alive, the Crew wins. The Hunted players can also win, if Taskwin is enabled and the Crew completes all tasks.\
 If the Hunters kill all players before one of these conditions is triggered, the Hunters win.\
 
 #### Hunter Abilities:
 - Enable arrows (arrows point to all Hunted players for x-seconds (depending on settings))
-- Mobile Admin table (like Hacker)
-- Lighter ability (gives the Hunter a biggier vision radius for x-seconds (depending on settings))
+- Mobile Admin table (like 黑客)
+- 执灯人 ability (gives the Hunter a biggier vision radius for x-seconds (depending on settings))
 
 #### Hunted Ability:
 - Timeshield (like Timemaster, depending on settings)
@@ -1376,7 +1375,7 @@ If the Hunters kill all players before one of these conditions is triggered, the
 Each Hunter action or finished Crew task will lower the timer by a configurable amount of time.\
 \
 **便签:**
-- We added a vent on Polus (Specimen), but only for this Gamemode. The vent is connected with Admin & Lab.
+- We added a vent on Polus (Specimen), but only for this 游戏模式. The vent is connected with Admin & Lab.
 - The Report button lights up, but cannot be pressed.
 - The tasks can be configured separately for this mode, without affecting your normal game settings.
 - Only the Hunter will be rewinded if they try to kill a player with an active timeshield.
@@ -1398,9 +1397,9 @@ Each Hunter action or finished Crew task will lower the timer by a configurable 
 | Enable Sabotages | -
 | Time The Hunter Needs To Wait | -
 
-## PropHunt
-The **Prop-Gamemode** is a standalone Gamemode where Hunters have to find the disguised players ("Props").\
-The Hunters and Props who are still alive are displayed to everyone in the bottom left corner (similar to the Arsonist display).\
+## 变形躲猫猫模式
+The **Prop-游戏模式** is a standalone 游戏模式 where Hunters have to find the disguised players ("Props").\
+The Hunters and Props who are still alive are displayed to everyone in the bottom left corner (similar to the 小丑 display).\
 When the game starts, the Hunter's movement is disabled for x-seconds (depends on the settings), and their screen is blacked out.\
 There is a time-limit for each round, if the timer runs out and at least one Prop is still alive, the remaining Props win.\
 If the Hunters kill all players before the timer runs out the Hunters win.\
@@ -1411,7 +1410,7 @@ When a Prop dies, they will either join the Hunter team or die (setting).
 
 #### Hunter Abilities:
 - Reveal: A random players current prop is revealed to all players for x seconds (according to settings). The timer will be reduced by *punish* s.
-- Mobile Admin table (like Hacker) - Normal Admin table shares the cooldown
+- Mobile Admin table (like 黑客) - Normal Admin table shares the cooldown
 - Find: Display the DangerMeter known from Vanilla HideNSeek for x seconds. The dangerlevel is rising the closer the Hunter gets to the neares prop.  
 #### Prop Abilities:
 - Invisibility: As a disguised Prop, become invisible for x seconds.
@@ -1440,20 +1439,3 @@ When a Prop dies, they will either join the Hunter team or die (setting).
 |  | -                         |  Hunter Admin Cooldown | - | Speedboost Ratio | Factor with which speed is multiplied 
 |  | -                       | Find Cooldown | -
 |  | -               | Find Duration | -
-
-## GCERROR
-If the error message "Fatal Error in GC - Collecting from unknown thread" stops you from playing the game, you can now disable the mod-updater, which causes this error.
-In order to do this, create a file called `noupdater.txt` in your modded Among Us folder.
-
-# License
-TheOtherRolesAU/TheOtherRoles is licensed under the
-
-[GNU General Public License v3.0](https://github.com/TheOtherRolesAU/TheOtherRoles/blob/main/LICENSE)
-
-Permissions of this strong copyleft license are conditioned on making available **complete source code of licensed works and modifications**, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
-
-# Bugs, suggestions and requests
-If you found any bugs, have an idea for a new role or any other request, join our [Discord server](https://discord.gg/77RkMJHWsM).
-
-# Copyedit
-Thanks for fixing our typos [jacktose](https://github.com/jacktose) ✌️
