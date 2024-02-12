@@ -42,7 +42,7 @@
 |  | [保安](#保安) |  |  |
 |  | [医生](#医生) |  |  |
 |  | [猎人](#猎人) |  |  |
-|  | [正义赌怪](#赌怪) |  |  |
+|  | [正义的赌怪](#赌怪) |  |  |
 
 The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之间分配.
 
@@ -190,7 +190,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 # 颜色
 - TOR颜色详情请去[TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles)
 - TORE颜色：
-- 'TORE模组颜色'
+- `TORE模组颜色`
   - 珊瑚色
   - 朝霞色
   - 纯黑色
