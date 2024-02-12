@@ -5,7 +5,7 @@
 
 # 分支模组:The Other Roles Edited
 <details>
-  <summary>点我查看TheOtherRoles开发者</summary>
+  <summary>点我查看TheOtherRolesEdited开发者</summary>
 - duye
 </details>
 
