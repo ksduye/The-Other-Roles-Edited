@@ -1,9 +1,9 @@
-# 本家模组:[The Other Roles]()
+### 本家模组:[The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles)
 ![eisbison banner](./Images/TOR_logo.png)
 [![Discord](./Images/TORE_server.png)](https://discord.gg/77RkMJHWsM)
 ![eisbison infographic](./Images/TORE_Roles.png)
 
-# 分支模组:The Other Roles Edited
+### 分支模组:[The Other Roles Edited](https://github.com/ksduye/The-Other-Roles-Edited)
 <details>
   <summary>点我查看TheOtherRolesEdited开发者</summary>
 - duye
