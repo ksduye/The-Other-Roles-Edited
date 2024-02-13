@@ -138,6 +138,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 # 更新日志
 <details>
   <summary>修改与变更</summary>
+
 **v1.0.1**
 - 增加一键更新！
 - 增加模组光标
@@ -149,6 +150,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 **v1.0.0**
 - 我们诞生了！
 </details>
+
 # 设置
 该模组为《Among Us》添加了一些新设置（除了角色设置）：
 - **船员人数：船员角色的数量可以在大厅内设置。**
