@@ -138,7 +138,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 # 更新日志
 <details>
   <summary>修改与变更</summary>
-  
+</details> 
 **版本 1.0.1**
 - 我们诞生了！
 
