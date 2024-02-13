@@ -6,11 +6,14 @@
 # 分支模组:[The Other Roles Edited](https://github.com/ksduye/The-Other-Roles-Edited)
 <details>
   <summary>点我查看TheOtherRolesEdited开发者</summary>
-本模组由TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
- 汉化由毒液 & 方块er
- 美术编辑:毒液
- TORE作者:毒液 & Yu &方块er
- 贡献者:LezaiYa & Imp11 & 水木年华
+
+**TheOtherRolesEidted**
+-本模组由TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
+ -汉化由毒液 & 方块er
+ -美术编辑:毒液
+ -TORE作者:毒液 & Yu &方块er
+ -贡献者:LezaiYa & Imp11 & 水木年华
+
 </details>
 
 ![eisbison banner](./Images/TORE_logo.png)
