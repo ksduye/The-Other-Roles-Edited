@@ -7,10 +7,10 @@
 <details>
   <summary>点我查看TheOtherRolesEdited开发者</summary>
 - 本模组由于TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
- - 汉化由[毒液](https://github.com/ksduye) & [方块er](https://github.com/farthest001) 
- - 美术编辑:[毒液](https://github.com/ksduye)
- - TORE作者:[毒液](https://github.com/ksduye)& [方块er](https://github.com/farthest001) & [Yu](https://github.com/Night-GUA)
- - 贡献者:[lezaiya](https://github.com/LezaiYa) & [imp11](https://github.com/dabao40) & [水木年华]()
+ - 汉化由毒液 & 方块er
+ - 美术编辑:毒液
+ - TORE作者:毒液 & Yu &方块er
+ - 贡献者:LezaiYa & Imp11 & 水木年华
 </details>
 
 ![eisbison banner](./Images/TORE_logo.png)
