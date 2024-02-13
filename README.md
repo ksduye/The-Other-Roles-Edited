@@ -7,12 +7,11 @@
 <details>
   <summary>点我查看TheOtherRolesEdited开发者</summary>
 
-**TheOtherRolesEidted**
 - 本模组由TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
- - 汉化由毒液 & 方块er
- - 美术编辑:毒液
- - TORE作者:毒液 & Yu &方块er
- - 贡献者:LezaiYa & Imp11 & 水木年华
+- 汉化由[毒液](https://github.com/ksduye) & [方块er](https://github.com/farthest001) 
+- 美术编辑:[毒液](https://github.com/ksduye)
+- TORE作者:[毒液](https://github.com/ksduye)& [方块er](https://github.com/farthest001) & [Yu](https://github.com/Night-GUA)
+- 贡献者:[lezaiya](https://github.com/LezaiYa) & [imp11](https://github.com/dabao40) & [水木年华]()
 
 </details>
 
@@ -51,7 +50,7 @@
 |  | [猎人](#猎人) |  |  |
 |  | [正义的赌怪](#赌怪) |  |  |
 
-[关于汉化](#关于汉化) 
+[关于模组](#关于模组) 
 
 # 下载
 | Among Us - 版本| 模组版本 | 链接 |
@@ -1456,9 +1455,9 @@ When a Prop dies, they will either join the Hunter team or die (setting).
 |  | -                       | Find Cooldown | -
 |  | -               | Find Duration | -
 
-## 关于汉化
+## 关于模组
 - 本模组由TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
 - 汉化由[毒液](https://github.com/ksduye) & [方块er](https://github.com/farthest001) 
- - 美术编辑:[毒液](https://github.com/ksduye)
- - TORE作者:[毒液](https://github.com/ksduye)& [方块er](https://github.com/farthest001) & [Yu](https://github.com/Night-GUA)
- - 贡献者:[lezaiya](https://github.com/LezaiYa) & [imp11](https://github.com/dabao40) & [水木年华]()
+- 美术编辑:[毒液](https://github.com/ksduye)
+- TORE作者:[毒液](https://github.com/ksduye)& [方块er](https://github.com/farthest001) & [Yu](https://github.com/Night-GUA)
+- 贡献者:[lezaiya](https://github.com/LezaiYa) & [imp11](https://github.com/dabao40) & [水木年华]()
