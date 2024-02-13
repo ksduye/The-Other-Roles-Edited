@@ -6,7 +6,11 @@
 # 分支模组:[The Other Roles Edited](https://github.com/ksduye/The-Other-Roles-Edited)
 <details>
   <summary>点我查看TheOtherRolesEdited开发者</summary>
-- duye
+- 本模组由于TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
+ - 汉化由[毒液](https://github.com/ksduye) & [方块er](https://github.com/farthest001) 
+ - 美术编辑:[毒液](https://github.com/ksduye)
+ - TORE作者:[毒液](https://github.com/ksduye)& [方块er](https://github.com/farthest001) & [Yu](https://github.com/Night-GUA)
+ - 贡献者:[lezaiya](https://github.com/LezaiYa) & [imp11](https://github.com/dabao40) & [水木年华]()
 </details>
 
 ![eisbison banner](./Images/TORE_logo.png)
@@ -44,7 +48,7 @@
 |  | [猎人](#猎人) |  |  |
 |  | [正义的赌怪](#赌怪) |  |  |
 
-The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之间分配.
+[关于汉化](#关于汉化) 
 
 # 下载
 | Among Us - 版本| 模组版本 | 链接 |
@@ -139,7 +143,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 <details>
   <summary>修改与变更</summary>
 
-**v1.0.1**
+**The Other Roles Edited v1.0.1**
 - 增加一键更新！
 - 增加模组光标
 - 对语言文件进行汉化
@@ -147,7 +151,7 @@ The [Role Assignment](#role-assignment) 部分解释了角色如何在玩家之�
 - 对部分BUG进行修理
 - 对部分图标进行重绘
 
-**v1.0.0**
+**The Other Roles Edited v1.0.0**
 - 我们诞生了！
 </details>
 
@@ -1448,3 +1452,10 @@ When a Prop dies, they will either join the Hunter team or die (setting).
 |  | -                         |  Hunter Admin Cooldown | - | Speedboost Ratio | Factor with which speed is multiplied 
 |  | -                       | Find Cooldown | -
 |  | -               | Find Duration | -
+
+## 关于汉化
+- 本模组由于TheOtherRoles v4.5.1版本进行分支十分感谢一些贡献者对我们的帮助！
+- 汉化由[毒液](https://github.com/ksduye) & [方块er](https://github.com/farthest001) 
+ - 美术编辑:[毒液](https://github.com/ksduye)
+ - TORE作者:[毒液](https://github.com/ksduye)& [方块er](https://github.com/farthest001) & [Yu](https://github.com/Night-GUA)
+ - 贡献者:[lezaiya](https://github.com/LezaiYa) & [imp11](https://github.com/dabao40) & [水木年华]()
