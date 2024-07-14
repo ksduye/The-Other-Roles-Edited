@@ -55,7 +55,7 @@ namespace TheOtherRolesEdited.Modules {
                             RPCProcedure.shareGamemode((byte)gameMode);
                             RPCProcedure.shareGamemode((byte)TORMapOptions.gameMode);
                         } else {
-                            __instance.AddChat(CachedPlayer.LocalPlayer.PlayerControl, "Nice try, but you have to be the host to use this feature");
+                            __instance.AddChat(CachedPlayer.LocalPlayer.PlayerControl, "并没有这个模式请你重试:)\n/gm 变形躲猫猫模式 => 切换为变形躲猫猫模式\n/gm => 切换为经典模式\n/gm 赌怪模式 => 切换为赌怪模式\n/gm 捉迷藏模式 => 切换为捉迷藏模式");
                         }
                         handled = true;
                     }

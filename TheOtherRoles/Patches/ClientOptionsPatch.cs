@@ -22,8 +22,6 @@ namespace TheOtherRolesEdited.Patches
             new("显示颜色类型亮/暗", () => TORMapOptions.showLighterDarker = TheOtherRolesEditedPlugin.ShowLighterDarker.Value = !TheOtherRolesEditedPlugin.ShowLighterDarker.Value, TheOtherRolesEditedPlugin.ShowLighterDarker.Value),
             new("启用模组音效", () => TORMapOptions.enableSoundEffects = TheOtherRolesEditedPlugin.EnableSoundEffects.Value = !TheOtherRolesEditedPlugin.EnableSoundEffects.Value, TheOtherRolesEditedPlugin.EnableSoundEffects.Value),
             new("在地图上显示通风口", () => TORMapOptions.ShowVentsOnMap = TheOtherRolesEditedPlugin.ShowVentsOnMap.Value = !TheOtherRolesEditedPlugin.ShowVentsOnMap.Value, TheOtherRolesEditedPlugin.ShowVentsOnMap.Value),
-            new("更新TORE", () => TORMapOptions.UpdateTORE = TheOtherRolesEditedPlugin.UpdateTORE.Value = !TheOtherRolesEditedPlugin.UpdateTORE.Value, TheOtherRolesEditedPlugin.UpdateTORE.Value),
-            new("启用模组光标", () => TORMapOptions.TheOtherRolesEditedCursor = TheOtherRolesEditedPlugin.TheOtherRolesEditedCursor.Value = !TheOtherRolesEditedPlugin.TheOtherRolesEditedCursor.Value, TheOtherRolesEditedPlugin.TheOtherRolesEditedCursor.Value),
         };
         
         private static GameObject popUp;
@@ -104,7 +102,7 @@ namespace TheOtherRolesEdited.Patches
             moreOptions.transform.localScale = new Vector3(0.66f, 1, 1);
 
             moreOptions.gameObject.SetActive(true);
-            moreOptions.Text.text = "<i><u><color=#00FFFF>模组设置...</color></u></i>";
+            moreOptions.Text.text = "模组设置...";
             moreOptions.Text.transform.localScale = new Vector3(1 / 0.66f, 1, 1);
             var moreOptionsButton = moreOptions.GetComponent<PassiveButton>();
             moreOptionsButton.OnClick = new ButtonClickedEvent();

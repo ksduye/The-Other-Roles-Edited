@@ -11,6 +11,7 @@ using TheOtherRolesEdited.Utilities;
 using AmongUs.Data;
 using Assets.InnerNet;
 using System.Linq;
+using System.Drawing;
 
 namespace TheOtherRolesEdited.Modules {
     [HarmonyPatch(typeof(MainMenuManager), nameof(MainMenuManager.Start))]
@@ -23,29 +24,18 @@ namespace TheOtherRolesEdited.Modules {
         private static void Prefix(MainMenuManager __instance) {
             var template = GameObject.Find("ExitGameButton");
             var template2 = GameObject.Find("CreditsButton");
-            if (template == null || template2 == null) return;
-            template.transform.localScale = new Vector3(0.42f, 0.84f, 0.84f);
-            template.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.625f, 0.5f);
-            template.transform.FindChild("FontPlacer").transform.localScale = new Vector3(1.8f, 0.9f, 0.9f);
-            template.transform.FindChild("FontPlacer").transform.localPosition = new Vector3(-1.1f, 0f, 0f);
-
-            template2.transform.localScale = new Vector3(0.42f, 0.84f, 0.84f);
-            template2.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.378f, 0.5f);
-            template2.transform.FindChild("FontPlacer").transform.localScale = new Vector3(1.8f, 0.9f, 0.9f);
-            template2.transform.FindChild("FontPlacer").transform.localPosition = new Vector3(-1.1f, 0f, 0f);
-
-
 
             var buttonDiscord = UnityEngine.Object.Instantiate(template, template.transform.parent);
-            buttonDiscord.transform.localScale = new Vector3(0.42f, 0.84f, 0.84f);
-            buttonDiscord.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.542f, 0.5f);
+
+            buttonDiscord.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.586f, 0.43f);
 
             var textDiscord = buttonDiscord.transform.GetComponentInChildren<TMPro.TMP_Text>();
             __instance.StartCoroutine(Effects.Lerp(0.5f, new System.Action<float>((p) => {
                 textDiscord.SetText("QQ频道");
+                textDiscord.color = new Color32(0, 191, 255, byte.MaxValue);
             })));
             PassiveButton passiveButtonDiscord = buttonDiscord.GetComponent<PassiveButton>();
-            
+            passiveButtonDiscord.activeTextColor = new Color32(110, 191, 255, byte.MaxValue);
             passiveButtonDiscord.OnClick = new Button.ButtonClickedEvent();
             passiveButtonDiscord.OnClick.AddListener((System.Action)(() => Application.OpenURL("http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1YPTXe2Sh93pAUXv1mwv4unI6J_G1FYK&authKey=%2BPzdgfi%2FpbaxyPTVU1Lx8xU69Zo1X4%2FCih0lTozAbZ0%2FsCiO%2FGe8sQ97p6jxEFlV&noverify=0&group_code=647668527")));
 
@@ -54,17 +44,18 @@ namespace TheOtherRolesEdited.Modules {
             // TOR credits button
             if (template == null) return;
             var creditsButton = Object.Instantiate(template, template.transform.parent);
-
-            creditsButton.transform.localScale = new Vector3(0.42f, 0.84f, 0.84f);
-            creditsButton.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.462f, 0.5f);
+            creditsButton.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.412f, 0.43f);
 
             var textCreditsButton = creditsButton.transform.GetComponentInChildren<TMPro.TMP_Text>();
             __instance.StartCoroutine(Effects.Lerp(0.5f, new System.Action<float>((p) => {
                 textCreditsButton.SetText("TORE公告");
             })));
+                textCreditsButton.color = new Color32(0, 191, 255, byte.MaxValue);
             PassiveButton passiveCreditsButton = creditsButton.GetComponent<PassiveButton>();
 
             passiveCreditsButton.OnClick = new Button.ButtonClickedEvent();
+
+            passiveCreditsButton.activeTextColor = new Color32(110, 191, 255, byte.MaxValue);
 
             passiveCreditsButton.OnClick.AddListener((System.Action)delegate {
                 // do stuff

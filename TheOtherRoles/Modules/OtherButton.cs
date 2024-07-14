@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using HarmonyLib;
-using System.Reflection;
-using System.Linq;
 
 
 namespace TheOtherRolesEdited;
@@ -23,10 +21,8 @@ public class GiteeButton
         if (!template) return;
 
         // 示例，创建一个名为Github的按钮，点击后打开https://github.com/ksduye/The-Other-Roles-Edited
-        CreateButton(__instance, template, GameObject.Find("RightPanel")?.transform, new(0.2f, 0.5f),"GitHub", () => { Application.OpenURL("https://github.com/ksduye/The-Other-Roles-Edited"); }, new Color32(0, 191, 255, byte.MaxValue));
-        CreateButton(__instance, template, GameObject.Find("RightPanel")?.transform, new(0.2f, 0.4f), "Gitee", () => { Application.OpenURL("https://gitee.com/"); }, new Color32(202, 255, 112, byte.MaxValue));
-        CreateButton(__instance, template, GameObject.Find("RightPanel")?.transform, new(0.2f, 0.3f), "职业介绍", () => { Application.OpenURL("https://github.com/ksduye/The-Other-Roles-Edited?tab=readme-ov-file#the-other-roles-edited"); }, new Color32(255, 105, 180, byte.MaxValue));
-        CreateButton(__instance, template, GameObject.Find("RightPanel")?.transform, new(0.2f, 0.2f), "手动更新", () => { Application.OpenURL("https://github.com/ksduye/The-Other-Roles-Edited/releases/latest"); }, new Color32(105, 105, 105, byte.MaxValue));
+        CreateButton(__instance, template, GameObject.Find("RightPanel")?.transform, new(0.2f, 0.26f),"GitHub", () => { Application.OpenURL("https://github.com/ksduye/The-Other-Roles-Edited"); }, new Color32(0, 191, 255, byte.MaxValue));
+        CreateButton(__instance, template, GameObject.Find("RightPanel")?.transform, new(0.2f, 0.195f), "职业介绍", () => { Application.OpenURL("https://github.com/ksduye/The-Other-Roles-Edited?tab=readme-ov-file#the-other-roles-edited"); }, new Color32(255, 105, 180, byte.MaxValue));
     }
     
     private static readonly List<PassiveButton> Buttons = new();

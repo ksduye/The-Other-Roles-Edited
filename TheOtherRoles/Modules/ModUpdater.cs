@@ -156,13 +156,17 @@ namespace TheOtherRolesEdited.Modules {
             if (latestRelease == null || latestRelease.Version <= TheOtherRolesEditedPlugin.Version)
                 return;
 
+            if (_busy || scene.name != "MCI") return;
+            var Release = Releases.FirstOrDefault();
+            if (latestRelease == null || latestRelease.Version <= TheOtherRolesEditedPlugin.Version)
+                return;
+
             var template = GameObject.Find("ExitGameButton");
             if (!template) return;
 
             var button = Instantiate(template, null);
             var buttonTransform = button.transform;
             //buttonTransform.localPosition = new Vector3(-2f, -2f);
-            button.GetComponent<AspectPosition>().anchorPoint = new Vector2(0.458f, 0.124f);
 
             PassiveButton passiveButton = button.GetComponent<PassiveButton>();
             passiveButton.OnClick = new Button.ButtonClickedEvent();

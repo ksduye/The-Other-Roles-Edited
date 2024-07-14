@@ -1077,6 +1077,8 @@ namespace TheOtherRolesEdited.Patches {
                 ninjaUpdate();
                 // Thief
                 thiefSetTarget();
+                // yoyo
+                Silhouette.UpdateAll();
 
                 hackerUpdate();
                 swapperUpdate();

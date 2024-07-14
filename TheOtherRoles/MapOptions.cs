@@ -21,8 +21,6 @@ namespace TheOtherRolesEdited
         public static bool enableHorseMode = false;
         public static bool shieldFirstKill = false;
         public static bool ShowVentsOnMap = true;
-        public static bool TheOtherRolesEditedCursor = true;
-        public static bool UpdateTORE = true;
         public static CustomGamemodes gameMode = CustomGamemodes.Classic;
 
         // Updating values
@@ -60,8 +58,6 @@ namespace TheOtherRolesEdited
             enableSoundEffects = TheOtherRolesEditedPlugin.EnableSoundEffects.Value;
             enableHorseMode = TheOtherRolesEditedPlugin.EnableHorseMode.Value;
             ShowVentsOnMap = TheOtherRolesEditedPlugin.ShowVentsOnMap.Value;
-            TheOtherRolesEditedCursor = TheOtherRolesEditedPlugin.TheOtherRolesEditedCursor.Value;
-            UpdateTORE = TheOtherRolesEditedPlugin.UpdateTORE.Value;
             //Patches.ShouldAlwaysHorseAround.isHorseMode = TheOtherRolesEditedPlugin.EnableHorseMode.Value;
         }
     }

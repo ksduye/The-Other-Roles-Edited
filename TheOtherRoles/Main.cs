@@ -33,8 +33,7 @@ namespace TheOtherRolesEdited
     public class TheOtherRolesEditedPlugin : BasePlugin
     {
         public const string Id = "me.ksduye.TheOtherRolesEdited";
-        public const string VersionString = "1.0.4";
-        public const string AfterVersionString = "20240321";//填发布日期
+        public const string VersionString = "1.0.6";
         public static uint betaDays = 0;  // amount of days for the build to be usable (0 for infinite!)
 
         public static Version Version = Version.Parse(VersionString);
@@ -111,8 +110,7 @@ namespace TheOtherRolesEdited
             EnableHorseMode = Config.Bind("Custom", "Enable Horse Mode", false);
             ShowPopUpVersion = Config.Bind("Custom", "Show PopUp", "0");
             ShowVentsOnMap = Config.Bind("Custom", "Show vent positions on minimap", false);
-            TheOtherRolesEditedCursor = Config.Bind("Custom", "TheOtherRolesEdited Cursor", true);
-            UpdateTORE = Config.Bind("Custom", "Update TORE", true);
+
 
             Ip = Config.Bind("Custom", "Custom Server IP", "127.0.0.1");
             Port = Config.Bind("Custom", "Custom Server Port", (ushort)22023);

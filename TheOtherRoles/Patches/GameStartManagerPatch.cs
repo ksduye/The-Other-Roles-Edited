@@ -77,7 +77,7 @@ namespace TheOtherRolesEdited.Patches {
                         PlayerVersion PV = playerVersions[client.Id];
                         int diff = TheOtherRolesEditedPlugin.Version.CompareTo(PV.version);
                         if (diff > 0) {
-                            message += $"<color=#FF0000FF>{client.Character.Data.PlayerName} 使用了旧版本的 The Other Roles Edited (v{playerVersions[client.Id].version.ToString()})\n</color>";
+                            message += $"<color=#FF0000FF>{client.Character.Data.PlayerName} 使用了较旧版本的 The Other Roles Edited (v{playerVersions[client.Id].version.ToString()})\n</color>";
                             versionMismatch = true;
                         } else if (diff < 0) {
                             message += $"<color=#FF0000FF>{client.Character.Data.PlayerName} 使用了最新版本的 The Other Roles Edited (v{playerVersions[client.Id].version.ToString()})\n</color>";

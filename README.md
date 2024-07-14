@@ -55,9 +55,9 @@
 # 下载
 | Among Us - 版本| 模组版本 | 链接 |
 |----------|-------------|-----------------|
-| 2023.11.28s| v1.0.6| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.6)
-| 2023.3.28s| v1.0.4| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.4)
-| 2023.3.28s| v1.0.3| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.3)
+| 2024.6.4s| v1.0.6| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.6)
+| 2024.3.28s| v1.0.4| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.4)
+| 2023.11.28s| v1.0.3| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.3)
 
 <details>
   <summary>点我查看旧版本</summary>
@@ -146,6 +146,7 @@
 </details>
 
 # 设置
+
 该模组为《Among Us》添加了一些新设置（除了角色设置）：
 - **船员人数：船员角色的数量可以在大厅内设置。**
 - **队友角色（忽略最小值/最大值）：每个人都会得到一个角色，即使设置说会有普通的船员（需要足够多的角色超过 0%）。**
@@ -173,7 +174,6 @@
 - **角色摘要：当游戏结束时，将有一个列表，包括所有玩家、他们的角色、他们的任务进度以及杀手杀死了多少玩家。**
 - **深色/浅色：显示会议中每个玩家的颜色类型。**
 - **在游戏中显示设置您可以使用地图按钮下方的按钮或 F1 键打开或关闭大厅设置的显示**
-
 
 | 地图 | 常见任务 | 短任务 | 长任务 |
 |----------|:-------------:|:-------------:|:-------------:|

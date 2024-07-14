@@ -1,9 +1,7 @@
-using Epic.OnlineServices.Auth;
 using HarmonyLib;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using Object = UnityEngine.Object;
@@ -14,8 +12,7 @@ namespace TheOtherRolesEdited;
 public static class MainMenuManagerPatch
 {
 
-
-    [HarmonyPatch(typeof(MainMenuManager), nameof(MainMenuManager.LateUpdate)), HarmonyPostfix]
+   [HarmonyPatch(typeof(MainMenuManager), nameof(MainMenuManager.LateUpdate)), HarmonyPostfix]
     public static void StartPostfix(MainMenuManager __instance)
     {
 
@@ -34,7 +31,7 @@ public static class MainMenuManagerPatch
         GameObject maskedBlackScreen = rightPanel.FindChild<Transform>("MaskedBlackScreen").gameObject;
         maskedBlackScreen.GetComponent<SpriteRenderer>().enabled = false;
         //maskedBlackScreen.transform.localPosition = new Vector3(-3.345f, -2.05f); //= new Vector3(0f, 0f);
-        maskedBlackScreen.transform.localScale = new Vector3(7.35f, 4.5f, 4f);
+        maskedBlackScreen.transform.localScale = new (7.35f, 4.5f, 4f);
 
         __instance.mainMenuUI.gameObject.transform.position += new Vector3(-0.2f, 0f);
 
@@ -48,12 +45,11 @@ public static class MainMenuManagerPatch
         if (freeplayButton != null) freeplayButton.gameObject.SetActive(false);
 
         howToPlayButton.transform.SetLocalX(0);
-
+       
         GameObject splashArt = new("SplashArt");
         splashArt.transform.position = new Vector3(0, 0f, 600f);
         var spriteRenderer = splashArt.AddComponent<SpriteRenderer>();
         spriteRenderer.sprite =  Helpers.loadSpriteFromResources("TheOtherRolesEdited.Resources.TORE-BG.png", 150f);
-
 
     }
     public static void Modify(this PassiveButton passiveButton, Action action)
