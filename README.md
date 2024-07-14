@@ -55,15 +55,18 @@
 # 下载
 | Among Us - 版本| 模组版本 | 链接 |
 |----------|-------------|-----------------|
-| 2023.11.28s| v1.0.2| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.2)
-| 2023.11.28s| v1.0.1| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1.1)
-| 2023.11.28s| v1.0.0| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1)
+| 2023.11.28s| v1.0.6| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.6)
+| 2023.3.28s| v1.0.4| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.4)
+| 2023.3.28s| v1.0.3| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.3)
 
 <details>
   <summary>点我查看旧版本</summary>
   
 | Among Us - 版本| 模组版本 | 链接 |
 |----------|-------------|-----------------|
+| 2023.11.28s| v1.0.2| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.2)
+| 2023.11.28s| v1.0.1| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1.1)
+| 2023.11.28s| v1.0.0| [下载](https://github.com/ksduye/The-Other-Roles-Edited/releases/v1.0.1)
 | 2023.11.28s| v4.5.1| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
 | 2023.11.28s| v4.5.0| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.0/TheOtherRoles.zip)
 | 2023.07.12s| v4.4.2| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.4.2/TheOtherRoles.zip)
@@ -141,23 +144,6 @@
 | 2020.12.19s | v1.1 | [下载](https://github.com/Eisbison/TheOtherRoles/releases/download/v1.1/TheOtherRoles.zip)
 | 2020.12.19s | v1.0 | [下载](https://github.com/Eisbison/TheOtherRoles/files/6097191/TheOtherRoles.zip)
 </details>
-  
-  
-# 更新日志
-<details>
-  <summary>修改与变更</summary>
-
-**The Other Roles Edited v1.0.1**
-- 增加一键更新！
-- 增加模组光标
-- 对语言文件进行汉化
-- 对模组图标进行汉化
-- 对部分BUG进行修理
-- 对部分图标进行重绘
-
-**The Other Roles Edited v1.0.0**
-- 我们诞生了！
-</details>
 
 # 设置
 该模组为《Among Us》添加了一些新设置（除了角色设置）：
@@ -187,8 +173,6 @@
 - **角色摘要：当游戏结束时，将有一个列表，包括所有玩家、他们的角色、他们的任务进度以及杀手杀死了多少玩家。**
 - **深色/浅色：显示会议中每个玩家的颜色类型。**
 - **在游戏中显示设置您可以使用地图按钮下方的按钮或 F1 键打开或关闭大厅设置的显示**
-- **模组光标哦~**
-- **一键更新qwq**
 
 
 | 地图 | 常见任务 | 短任务 | 长任务 |
